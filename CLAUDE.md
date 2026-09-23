@@ -182,3 +182,10 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Address:** none shown - works remotely, serving the United States and Canada
 - **Hours:** Monday to Friday, 9am to 5pm Mountain Time. Closed weekends.
 - **Founder:** Rich Soto. Started Provo SEO Pros in 2001, right out of college, to help local businesses be found more easily by their ideal clients. One-person business. Headshot saved in the site's images folder.
+- **More starting prices (owner's words):**
+  - Website Design & Conversion Optimization: From $3,500
+  - Social Media Management: From $750/mo
+  - CRM Automation & Lead Follow-Up: From $1,500 setup + $300/mo
+  - PPC Advertising Management: From $750/mo + ad spend (always show ad spend as separate)
+- **Offers mentioned but not on the site yet:** Guided Implementation ($7,500 buildout), "the Starter" plan. Ask before adding.
+- **Services list is now nine** (added Local Visibility Starter, From $900/mo + $500 setup, and Guided Implementation™, From $7,500 + $2,500/mo). Descriptions approved by the owner on Wednesday 23 September.

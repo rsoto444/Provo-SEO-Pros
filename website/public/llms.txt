@@ -1,25 +1,29 @@
-# Replace every line below with the real business.
-# This file tells ChatGPT, Claude and Perplexity what you do, in plain text.
+# Provo SEO Pros
 
-# Your Business Name
-
-> One plain sentence on what you do and who you do it for.
+> SEO for local businesses across the United States and Canada, since 2001. Founder-led by Rich Soto.
 
 ## Services
-- Service one: one line on what it is and who it's for
-- Service two: one line
-- Service three: one line
+- Growth Engine System: one coordinated marketing system covering SEO, AI search, website, Google Business Profile, reviews, campaigns and tracking. From $2,500 one-time.
+- Guided Implementation: a focused buildout of local SEO, Google Business Profile, service pages, website conversion and trust assets, then ongoing approved work. From $7,500 + $2,500/mo.
+- Local Visibility Starter: ongoing Google Business Profile, local SEO essentials, light technical cleanup and monthly reporting. From $900/mo + $500 setup.
+- SEO & AI Search Optimization: clearer service pages, stronger local relevance and a technically sound site. From $2,500 one-time.
+- Google Business Profile Management: a complete, accurate, trusted profile. From $900/mo + $500 setup.
+- Website Design & Conversion Optimization: a clear, mobile-ready website built to turn visitors into calls and form submissions. From $3,500.
+- CRM Automation & Lead Follow-Up: automated lead capture, instant text and email replies, follow-up sequences. From $1,500 setup + $300/mo.
+- PPC Advertising Management: Google Ads campaigns around your highest-value services. From $750/mo + ad spend.
+- Social Media Management: consistent, on-brand posts. From $750/mo.
 
 ## Areas served
-Your city and the surrounding areas you actually travel to.
+United States and Canada, remotely.
 
 ## Facts
-- Years in business:
-- Licence number:
-- Reviews: X.X stars from N reviews
-- Response time:
+- Founded: 2001, by Rich Soto
+- Hours: Monday to Friday, 9am to 5pm Mountain Time
+- First step: a free 30-minute Growth Audit call
+- Terms: ongoing plans have a 6-month minimum, then month to month with 30 days' notice. Scope and terms confirmed in writing before work begins.
+- No ranking, traffic or lead timeline guarantees.
 
 ## Contact
-Phone:
-Email:
-Quote: https://example.com/quote
+Phone: +1 866-402-6849
+Email: contact@provoseopros.com
+Book: https://provoseopros.com/quote

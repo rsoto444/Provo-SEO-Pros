@@ -5,10 +5,11 @@
 // /blog-post appends one entry per published post: title as a descriptive
 // link, one-sentence hook, date. Posts live FLAT at /blog/[slug].
 import type { CSSProperties } from "react";
+import SiteNav from "../_components/SiteNav";
 
 export const metadata = {
   title: "Blog",
-  description: "Every post, newest first. Entries land here as /blog-post publishes them.",
+  description: "Plain-English advice on local SEO, Google Business Profile and AI search for local business owners.",
 };
 
 const wrap: CSSProperties = { maxWidth: "var(--container-max, 1160px)", margin: "0 auto", padding: "0 var(--gutter, 24px)" };
@@ -21,14 +22,16 @@ const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: st
 
 export default function BlogIndex() {
   return (
+    <>
+    <SiteNav />
     <main style={{ background: "var(--surface-page, #f9f8f6)", minHeight: "70vh" }}>
       <section style={{ padding: "var(--space-9, 88px) 0 var(--space-7, 48px)" }}>
         <div style={wrap}>
           <p style={eyebrow}>The blog</p>
-          <h1 style={h1s}>Advice, written to be used.</h1>
+          <h1 style={h1s}>Local SEO advice, written to be used.</h1>
           <p style={body}>
-            Every post lives flat under /blog, hubs and spokes wired by links. Run{" "}
-            <code>/blog-post</code> and the first post lands here with a title, a hook and a date.
+            Plain-English advice on local SEO, Google Business Profile and AI search, for local
+            business owners who would rather understand what they&rsquo;re paying for.
           </p>
         </div>
       </section>
@@ -46,8 +49,8 @@ export default function BlogIndex() {
                 font: "var(--type-body)",
               }}
             >
-              No posts yet. The first one comes from <code>/blog-post</code> - written to your
-              keyword map, in the site&rsquo;s design, registered here automatically.
+              The first posts are on their way. Have a question now?{" "}
+              <a href="/contact#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask it on a free Growth Audit call</a>.
             </div>
           ) : (
             <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "var(--space-5, 24px)" }}>
@@ -65,5 +68,6 @@ export default function BlogIndex() {
         </div>
       </section>
     </main>
+  </>
   );
 }

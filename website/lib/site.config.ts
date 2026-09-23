@@ -21,24 +21,25 @@ export const site = {
   // Your services - each becomes a card on the homepage.
   // The SEO Blueprint's /build-website turns these into full service pages.
   services: [
-    { name: "Website Design & Conversion Optimization", slug: "website-design-and-conversion-optimization", blurb: "TODO: one line from the owner" },
-    { name: "Social Media Management", slug: "social-media-management", blurb: "TODO: one line from the owner" },
-    { name: "CRM Automation & Lead Follow-Up", slug: "crm-automation-and-lead-follow-up", blurb: "TODO: one line from the owner" },
-    { name: "Google Business Profile Management", slug: "google-business-profile-management", blurb: "A complete, accurate, and trusted Google Business Profile, with the right categories, services, reviews, and contact paths, so local searchers can compare you easily and contact you." },
-    { name: "Growth Engine System", slug: "growth-engine-system", blurb: "One coordinated marketing system covering SEO, AI search, your website, your Google Business Profile, reviews, campaigns, and tracking, run from a single plan so you don't have to manage separate vendors." },
-    { name: "PPC Advertising Management", slug: "ppc-advertising-management", blurb: "TODO: one line from the owner" },
-    { name: "SEO & AI Search Optimization", slug: "seo-and-ai-search-optimization", blurb: "Clearer service pages, stronger local relevance, and a technically sound site, so Google, Maps, and AI search tools can understand your business and more of the people who find you reach out." },
+    { name: "Growth Engine System", slug: "growth-engine-system", blurb: "One coordinated marketing system covering SEO, AI search, your website, your Google Business Profile, reviews, campaigns, and tracking, run from a single plan so you don't have to manage separate vendors.", price: "From $2,500 one-time" },
+    { name: "Guided Implementation™", slug: "guided-implementation", blurb: "A focused buildout of your local SEO, Google Business Profile, service pages, website conversion, and trust assets, followed by ongoing approved marketing work.", price: "From $7,500 + $2,500/mo" },
+    { name: "Local Visibility Starter", slug: "local-visibility-starter", blurb: "Ongoing local visibility support: a stronger Google Business Profile, local SEO essentials, light technical cleanup, and monthly reporting.", price: "From $900/mo + $500 setup" },
+    { name: "SEO & AI Search Optimization", slug: "seo-and-ai-search-optimization", blurb: "Clearer service pages, stronger local relevance, and a technically sound site, so Google, Maps, and AI search tools can understand your business and more of the people who find you reach out.", price: "From $2,500 one-time" },
+    { name: "Google Business Profile Management", slug: "google-business-profile-management", blurb: "A complete, accurate, and trusted Google Business Profile, with the right categories, services, reviews, and contact paths, so local searchers can compare you easily and contact you.", price: "From $900/mo + $500 setup" },
+    { name: "Website Design & Conversion Optimization", slug: "website-design-and-conversion-optimization", blurb: "A clear, mobile-ready website with strong service pages, proof, and calls to action, built to turn visitors into calls and form submissions.", price: "From $3,500" },
+    { name: "CRM Automation & Lead Follow-Up", slug: "crm-automation-and-lead-follow-up", blurb: "Automated lead capture, instant text and email responses, and follow-up sequences, so every new inquiry gets a fast reply and doesn't slip through the cracks.", price: "From $1,500 setup + $300/mo" },
+    { name: "PPC Advertising Management", slug: "ppc-advertising-management", blurb: "Google Ads campaigns built around your highest-value services, with focused landing pages, call and form tracking, and regular optimization.", price: "From $750/mo + ad spend" },
+    { name: "Social Media Management", slug: "social-media-management", blurb: "Consistent, on-brand posts that show your work, reviews, and expertise, so prospects who check you out see an active, credible business.", price: "From $750/mo" },
   ],
 
   // Google Ads sitelinks. Written here at build time, while the value of each
   // page is fresh - /write-ads reads them rather than inventing them months later.
   // Titles max 25 characters, each description line max 35.
   sitelinks: [
-    { title: "Get a Quote",  url: "/quote",    lines: ["Free quote, no pressure", "Reply within a day"] },
-    { title: "Our Services", url: "/services", lines: ["Everything we do", "Plain pricing"] },
-    { title: "Reviews",      url: "/reviews",  lines: ["Real customer stories", "Word for word"] },
-    { title: "Pricing",      url: "/pricing",  lines: ["What it costs", "No surprise fees"] },
-    { title: "About Us",     url: "/about",    lines: ["Who we are", "Local and licensed"] },
-    { title: "Contact",      url: "/contact",  lines: ["Call or book online", "A person replies"] },
+    { title: "Free Growth Audit", url: "/quote",    lines: ["Free 30-minute call", "Reply in 1 business day"] },
+    { title: "Our Services",      url: "/services", lines: ["Local SEO, GBP, AI search", "Websites, CRM and Google Ads"] },
+    { title: "Pricing",           url: "/pricing",  lines: ["Starting prices up front", "Terms confirmed in writing"] },
+    { title: "About Us",          url: "/about",    lines: ["Founder-led since 2001", "Serving the US and Canada"] },
+    { title: "Contact",           url: "/contact",  lines: ["Call or book online", "Mon to Fri, 9am to 5pm MT"] },
   ],
 };

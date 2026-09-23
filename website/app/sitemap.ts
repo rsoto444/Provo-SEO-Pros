@@ -7,7 +7,8 @@ export const dynamic = "force-static"; // required for static export (SSG)
 // DELIBERATELY EXCLUDED: /thank-you (must never be indexed - it would
 // wreck your conversion count) and the legal pages (no search value).
 export default function sitemap(): MetadataRoute.Sitemap {
-  const pages = ["", "/services", "/about", "/contact", "/quote", "/reviews", "/pricing"];
+  // /reviews stays out until real reviews exist (it is noindexed too).
+  const pages = ["", "/services", "/about", "/contact", "/quote", "/pricing"];
   return pages.map((path) => ({
     url: `${site.url}${path}`,
     lastModified: new Date(),

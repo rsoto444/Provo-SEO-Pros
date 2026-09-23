@@ -6,10 +6,12 @@
 // section per keyword-map service hub (name, 2-4 real sentences, photo,
 // descriptive link) and keeps this page's shape exactly.
 import type { CSSProperties } from "react";
+import { site } from "@/lib/site.config";
+import SiteNav from "../_components/SiteNav";
 
 export const metadata = {
-  title: "Services",
-  description: "Every service, in one place. Filled from your keyword map by /build-website.",
+  title: "Local SEO and Marketing Services",
+  description: "Local SEO, Google Business Profile, AI search, websites, CRM follow-up and Google Ads for local businesses in the US and Canada. Book a free Growth Audit.",
 };
 
 const wrap: CSSProperties = { maxWidth: "var(--container-max, 1160px)", margin: "0 auto", padding: "0 var(--gutter, 24px)" };
@@ -18,23 +20,23 @@ const h1s: CSSProperties = { font: "var(--type-display)", letterSpacing: "var(--
 const h2s: CSSProperties = { font: "var(--type-h2)", letterSpacing: "var(--track-heading)", color: "var(--text-strong)", margin: 0 };
 const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-body)", margin: "var(--space-3) 0 0", maxWidth: "52ch" };
 
-const SERVICES = [
-  { name: "Service one", blurb: "Two to four sentences on what this service is and who it is for. /build-website fills this from your keyword map - every service hub in the map gets a section here, linking to its own page.", frame: "Job photo" },
-  { name: "Service two", blurb: "Same shape. The section carries the service name as a heading, a short honest description, a real photo, and a descriptive link to the service page.", frame: "Job photo" },
-  { name: "Service three", blurb: "City pages nest under each service. Each service section here links down to its page; each service page carries its own Areas We Serve section.", frame: "Job photo" },
-];
+const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, frame: "Service photo" }));
 
 export default function ServicesIndex() {
   return (
+    <>
+    <SiteNav />
     <main style={{ background: "var(--surface-page, #f9f8f6)" }}>
       <section style={{ padding: "var(--space-9, 88px) 0 var(--space-7, 48px)" }}>
         <div style={wrap}>
           <p style={eyebrow}>What we do</p>
           <h1 style={h1s}>Services</h1>
           <p style={body}>
-            Every service, one page each, cities nested underneath. This index is part of the
-            site&rsquo;s structure - run <code>/build-website</code> and each section below becomes
-            one of your real services, linked to its own page.
+            Everything Provo SEO Pros does for local businesses across the United States and Canada.
+            Not sure where to start? That&rsquo;s what the free 30-minute Growth Audit is for.
+          </p>
+          <p style={{ ...body, margin: "var(--space-5) 0 0" }}>
+            <a href="/contact#book" style={{ display: "inline-block", padding: "12px 22px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", textDecoration: "none", font: "var(--type-button)" }}>Book a free Growth Audit</a>
           </p>
         </div>
       </section>
@@ -52,6 +54,9 @@ export default function ServicesIndex() {
             <div>
               <h2 style={h2s}>{s.name}</h2>
               <p style={body}>{s.blurb}</p>
+              <p style={{ ...body, margin: "var(--space-4) 0 0" }}>
+                <a href="/contact#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
+              </p>
             </div>
             <div
               aria-hidden="true"
@@ -81,5 +86,6 @@ export default function ServicesIndex() {
         </div>
       </section>
     </main>
+  </>
   );
 }
