@@ -13,7 +13,7 @@ export const site = {
   // money pages stay form-only, one primary CTA each). Leave it null and that
   // section simply doesn't render.
   // GHL > Calendars > the calendar > copy the booking link.
-  bookingUrl: null as string | null,
+  bookingUrl: "https://api.leadconnectorhq.com/widget/booking/zzAK5q1XnER39WzXYv6o" as string | null, // Rich Soto Calendar, 30 min
   phone: "+1 866-402-6849",
   email: "contact@provoseopros.com",
   address: "Remote - serving the United States and Canada",

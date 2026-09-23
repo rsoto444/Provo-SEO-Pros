@@ -191,3 +191,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Offers mentioned but not on the site yet:** Guided Implementation ($7,500 buildout), "the Starter" plan. Ask before adding.
 - **Services list is now nine** (added Local Visibility Starter, From $900/mo + $500 setup, and Guided Implementation™, From $7,500 + $2,500/mo). Descriptions approved by the owner on Wednesday 23 September.
 - **Brand colour:** blue ramp from the logo. Navy #17284D (darkest), logo light blue #60B0F8, main blue #2272E0 (passes contrast with white text).
+- **Booking calendar:** Rich Soto Calendar (30 min), shown on the thank-you page after a form is sent.
