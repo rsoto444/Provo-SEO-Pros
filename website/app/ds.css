@@ -31,7 +31,7 @@ button,input,select,textarea{font-family:inherit;font-size:inherit}
 /* ---- colors.css ---- */
 :root{
 /* Base — blue (the brand: nav, hero, buttons, links, stats) */
---blue-900:#062f66;--blue-800:#0a4794;--blue-700:#0b62c9;--blue-600:#0a7cff;--blue-500:#3d97ff;--blue-400:#6fb2ff;--blue-300:#9ccbff;--blue-200:#c6e1ff;--blue-100:#e2effe;--blue-50:#f2f8ff;
+--blue-900:#17284d;--blue-800:#1a3f7c;--blue-700:#1d5ab4;--blue-600:#2272e0;--blue-500:#3f8fec;--blue-400:#60b0f8;--blue-300:#93c9fa;--blue-200:#c2e0fc;--blue-100:#e2f0fe;--blue-50:#f2f8ff;
 /* Base — accent (the one accent: promo strip, the money action, active states).
    Graphite by design: high contrast on white AND on any brand hue, so a business
    can re-skin --blue-* without ever restyling the accent. Swap these nine values
