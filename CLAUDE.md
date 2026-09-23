@@ -181,3 +181,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Founded:** 2001 ("SEO for local businesses since 2001")
 - **Address:** none shown - works remotely, serving the United States and Canada
 - **Hours:** Monday to Friday, 9am to 5pm Mountain Time. Closed weekends.
+- **Founder:** Rich Soto. Started Provo SEO Pros in 2001, right out of college, to help local businesses be found more easily by their ideal clients. One-person business. Headshot saved in the site's images folder.
