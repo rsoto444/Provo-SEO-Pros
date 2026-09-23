@@ -158,6 +158,7 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Real proof so far:** none yet (no reviews, numbers or results). Leave proof slots as flagged placeholders.
 - **Style:** calm
 - **Lead webhook:** not connected yet
+- **Pexels:** connected (key in .env, never committed)
 - **Services (owner's words):**
   - Website Design & Conversion Optimization
   - Social Media Management

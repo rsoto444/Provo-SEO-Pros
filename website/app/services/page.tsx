@@ -20,7 +20,7 @@ const h1s: CSSProperties = { font: "var(--type-display)", letterSpacing: "var(--
 const h2s: CSSProperties = { font: "var(--type-h2)", letterSpacing: "var(--track-heading)", color: "var(--text-strong)", margin: 0 };
 const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-body)", margin: "var(--space-3) 0 0", maxWidth: "52ch" };
 
-const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, frame: "Service photo" }));
+const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo: s.photo, photoAlt: s.photoAlt }));
 
 export default function ServicesIndex() {
   return (
@@ -58,22 +58,12 @@ export default function ServicesIndex() {
                 <a href="/contact#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
               </p>
             </div>
-            <div
-              aria-hidden="true"
-              style={{
-                aspectRatio: "4/3",
-                borderRadius: "var(--radius-media, 14px)",
-                background: "var(--ink-100, #f0efec)",
-                display: "grid",
-                placeItems: "center",
-                font: "var(--type-label)",
-                letterSpacing: "var(--track-label)",
-                textTransform: "uppercase",
-                color: "var(--text-faint, #9a9995)",
-              }}
-            >
-              {s.frame}
-            </div>
+            <img
+              src={s.photo}
+              alt={s.photoAlt}
+              loading="lazy"
+              style={{ width: "100%", aspectRatio: "4/3", objectFit: "cover", borderRadius: "var(--radius-media, 14px)", display: "block" }}
+            />
           </div>
         </section>
       ))}
