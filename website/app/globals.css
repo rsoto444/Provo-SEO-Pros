@@ -1,2 +1,38 @@
 @import "tailwindcss";
 
+
+/* Phone layout. The template pages were laid out for desktop only (fixed
+   multi-column grids, a one-row header), so on a 390px phone they ran 500px+
+   off the side of the screen. These rules only apply below 760px and leave
+   the desktop design untouched. !important is needed because the template
+   sets its layout in inline styles. */
+@media (max-width: 760px) {
+  main [style*="grid-template-columns"],
+  footer [style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+  header .gw-container {
+    flex-wrap: wrap !important;
+    height: auto !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    row-gap: 10px !important;
+  }
+  header nav {
+    order: 3;
+    width: 100%;
+    margin-left: 0 !important;
+    gap: 18px !important;
+    overflow-x: auto;
+  }
+  header a[href^="tel:"] {
+    display: none !important;
+  }
+  header .gw-container > div:last-child {
+    margin-left: auto !important;
+  }
+  main img,
+  main iframe {
+    max-width: 100%;
+  }
+}
