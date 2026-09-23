@@ -157,7 +157,7 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Platform:** Next.js, deployed on Vercel
 - **Real proof so far:** none yet (no reviews, numbers or results). Leave proof slots as flagged placeholders.
 - **Style:** calm
-- **Lead webhook:** not connected yet
+- **Lead webhook:** connected to GoHighLevel (Provo SEO Pros sub-account). URL kept in .env and website/.env.local, never committed. Must also be added in Vercel as LEAD_WEBHOOK_URL before going live. Test lead sent Wednesday 23 September.
 - **Pexels:** connected (key in .env, never committed)
 - **Services (owner's words):**
   - Website Design & Conversion Optimization

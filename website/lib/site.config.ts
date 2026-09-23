@@ -5,7 +5,9 @@ export const site = {
   name: "Provo SEO Pros",
   tagline: "SEO for local businesses across the United States and Canada.",
   // GHL inbound webhook - /build-website step 6 collects this and writes it here.
-  leadWebhook: null as string | null,
+  // Kept out of the code on purpose: anyone with this URL could post fake leads.
+  // Set LEAD_WEBHOOK_URL in .env.local (local) and in Vercel > Settings > Environment Variables (live).
+  leadWebhook: (process.env.LEAD_WEBHOOK_URL ?? null) as string | null,
   // GHL calendar booking link - collected on the first /service-page run.
   // Set it and /thank-you renders the booking widget after a form submit (the
   // money pages stay form-only, one primary CTA each). Leave it null and that
