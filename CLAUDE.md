@@ -197,3 +197,6 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Offer name:** "Guided Implementation™" everywhere (owner, Thursday 24 September). The moved WordPress page keeps its address /local-authority-guided-implementation/.
 - **Setter pages:** stay on WordPress at team.provoseopros.com (to set up during /publish, hidden from Google). The old addresses forward there.
 - **/service/ page images:** skipped on purpose (owner, Thursday 24 September).
+- **Vercel:** project provo-seo-pros in the Soto Growth Systems team. Connected to GitHub rsoto444/Provo-SEO-Pros, publishes the main branch. Root Directory = website (package.json lives in ./website). LEAD_WEBHOOK_URL set for production and preview.
+- **Commit email for deploys:** rsoto443@gmail.com (matches the Vercel account, so deploys aren't blocked).
+- **DNS:** Cloudflare (nameservers jeff/paityn.ns.cloudflare.com). Email MX points to SiteGround anti-spam, and crm./app. are GoHighLevel. Never change those.
