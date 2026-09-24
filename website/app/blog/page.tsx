@@ -7,11 +7,10 @@
 import type { CSSProperties } from "react";
 import SiteNav from "../_components/SiteNav";
 import { wpPages } from "@/lib/wp-pages";
+import { pageMeta, breadcrumbSchema } from "@/lib/seo";
+import JsonLd from "../_components/JsonLd";
 
-export const metadata = {
-  title: "Blog",
-  description: "Plain-English advice on local SEO, Google Business Profile and AI search for local business owners.",
-};
+export const metadata = pageMeta({ title: "Blog | Provo SEO Pros", description: "Plain-English advice on local SEO, Google Business Profile and AI search for local business owners.", path: "/blog/" });
 
 const wrap: CSSProperties = { maxWidth: "var(--container-max, 1160px)", margin: "0 auto", padding: "0 var(--gutter, 24px)" };
 const eyebrow: CSSProperties = { font: "var(--type-label)", letterSpacing: "var(--track-label)", textTransform: "uppercase", color: "var(--text-muted)" };
@@ -27,7 +26,7 @@ const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: st
 
 export default function BlogIndex() {
   return (
-    <>
+    <><JsonLd data={breadcrumbSchema([{ name: "Blog", path: "/blog/" }])} />
     <SiteNav />
     <main style={{ background: "var(--surface-page, #f9f8f6)", minHeight: "70vh" }}>
       <section style={{ padding: "var(--space-9, 88px) 0 var(--space-7, 48px)" }}>

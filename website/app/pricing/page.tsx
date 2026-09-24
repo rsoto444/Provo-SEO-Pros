@@ -2,18 +2,17 @@
 // Prices come from lib/site.config.ts - every figure there was given by the owner.
 import { site } from "@/lib/site.config";
 import SiteNav from "../_components/SiteNav";
+import { pageMeta, breadcrumbSchema } from "@/lib/seo";
+import JsonLd from "../_components/JsonLd";
 
-export const metadata = {
-  title: "Pricing",
-  description: "Starting prices for local SEO, Google Business Profile, AI search, websites, CRM follow-up and Google Ads. Scope and terms confirmed in writing before any work begins.",
-};
+export const metadata = pageMeta({ title: "Pricing | Provo SEO Pros", description: "Starting prices for local SEO, Google Business Profile, AI search, websites, CRM follow-up and Google Ads. Scope and terms confirmed in writing before any work begins.", path: "/pricing/" });
 
 const label = { font: "var(--type-label)", letterSpacing: "0.08em", textTransform: "uppercase" as const, color: "var(--text-muted, #73726e)" };
 const body = { color: "var(--text-body, #3f3f3c)", margin: 0 };
 
 export default function Page() {
   return (
-    <>
+    <><JsonLd data={breadcrumbSchema([{ name: "Pricing", path: "/pricing/" }])} />
     <SiteNav />
     <main style={{ maxWidth: 820, margin: "0 auto", padding: "96px 24px", fontFamily: "var(--font-core, system-ui)" }}>
       <p style={label}>What it costs</p>

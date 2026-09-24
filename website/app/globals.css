@@ -87,7 +87,8 @@
 .wpx-actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0 8px; }
 .wpx-actions a.wp-btn { margin: 0; }
 .wpx-card { background: var(--surface-card); color: var(--text-body); border: 1px solid var(--line-hairline); border-radius: var(--radius-card, 16px); padding: 26px; box-shadow: var(--shadow-sm, 0 1px 3px rgba(0,0,0,.06)); }
-.wpx .wpx-card h3 { font: var(--type-h3); color: var(--text-strong); margin: 6px 0 8px; }
+.wpx .wpx-card h3, .wpx .wpx-card h2.wpx-card-title { font: var(--type-h3); letter-spacing: normal; color: var(--text-strong); margin: 6px 0 8px; }
+.wpx .wpx-card p.wp-kicker + h2.wpx-card-title { margin-top: 0; }
 .wpx .wpx-card p { margin: 0 0 10px; }
 .wpx .wpx-card ul { margin: 6px 0 0; }
 .wpx .wpx-card p.wp-step { margin: 0 0 4px; }

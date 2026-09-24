@@ -62,5 +62,57 @@
  {
   "source": "/provo-seo-pros-setter-training-hub/",
   "destination": "https://team.provoseopros.com/provo-seo-pros-setter-training-hub/"
+ },
+ {
+  "source": "/index/",
+  "destination": "/"
+ },
+ {
+  "source": "/home-2/",
+  "destination": "/"
+ },
+ {
+  "source": "/web-design/",
+  "destination": "/service/website-design-conversion-optimization/"
+ },
+ {
+  "source": "/growth-engine/",
+  "destination": "/service/growth-engine/"
+ },
+ {
+  "source": "/growth-engine-system/",
+  "destination": "/service/growth-engine/"
+ },
+ {
+  "source": "/how-it-works/",
+  "destination": "/service/growth-engine/"
+ },
+ {
+  "source": "/seo-ai-seo/",
+  "destination": "/service/seo-ai-search-optimization/"
+ },
+ {
+  "source": "/category/seo-ai-seo/",
+  "destination": "/blog/"
+ },
+ {
+  "source": "/category/web-design-cro/",
+  "destination": "/blog/"
+ },
+ {
+  "source": "/category/crm-automation/",
+  "destination": "/blog/"
+ },
+ {
+  "source": "/category/growth-engine-strategy/",
+  "destination": "/blog/"
+ },
+ {
+  "source": "/discover-my-journey-with-the-top-advertising-agency-in-utah/",
+  "destination": "/about/"
+ },
+ {
+  "source": "/comprehensive-roofing-seo-services/",
+  "destination": "/service/seo-ai-search-optimization/"
  }
 ]

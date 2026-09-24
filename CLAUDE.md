@@ -218,3 +218,8 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **A2P brand phone:** Richard Soto Jr's mobile (801) 372-2776 (OTP verification; must be a real mobile). Shown once on the contact page as 'Direct line' so the brand details appear on the site. 866 stays the main number everywhere else.
 - **Privacy policy (owner-approved, Thursday 24 September):** SMS opt-in sentence now says consent is collected in the chat widget on the website or on booking pages. Last updated date set to September 24, 2026.
 - **Owner line on site (for A2P name match):** 'Provo SEO Pros is owned and operated by Richard Soto Jr.' in the footers and the contact page Reach us box.
+
+### Audit decisions (Thursday 24 September 2026)
+- Positioning: lead with Provo in titles and descriptions ("Provo SEO company"); national reach stays in the body copy.
+- local.provoseopros.com (old 3local site, 32 city pages): retire with redirects to the matching main-site pages (owner chose A). Redirects are in next.config.mjs; they go live once the subdomain points at Vercel.
+- solar.provoseopros.com and msgulfcoast.provoseopros.com: not decided yet.

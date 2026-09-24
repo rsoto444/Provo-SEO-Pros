@@ -4,6 +4,19 @@ import { readFileSync } from "node:fs";
 // Old WordPress addresses and their new homes (see lib/redirects.json).
 const wpRedirects = JSON.parse(readFileSync(new URL("./lib/redirects.json", import.meta.url), "utf8"));
 
+// The old 3local site on local.provoseopros.com (32 cloned city pages), retired
+// with the owner's yes on 24 September 2026. Once that subdomain points at this
+// Vercel project, every one of its addresses lands on the matching page here.
+const LOCAL = [{ type: "host", value: "local.provoseopros.com" }];
+const MAIN = "https://provoseopros.com";
+const localSubdomainRedirects = [
+  ["/seo/:path*", "/service/seo-ai-search-optimization/"],
+  ["/web-design/:path*", "/service/website-design-conversion-optimization/"],
+  ["/social-media-marketing/:path*", "/service/social-media-management/"],
+  ["/google-business-profile-management/:path*", "/service/google-business-profile-management/"],
+  ["/:path*", "/"],
+].map(([source, to]) => ({ source, has: LOCAL, destination: `${MAIN}${to}`, permanent: true }));
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Static-first, with a server available where one is genuinely needed.
@@ -27,7 +40,7 @@ const nextConfig = {
 
   // Permanent redirects for every old WordPress address that moved.
   async redirects() {
-    return wpRedirects.map((r) => ({ ...r, permanent: true }));
+    return [...localSubdomainRedirects, ...wpRedirects.map((r) => ({ ...r, permanent: true }))];
   },
 
   // 301 redirects live at the HOST layer so they work identically on any host.

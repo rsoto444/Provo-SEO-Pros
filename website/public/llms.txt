@@ -1,17 +1,17 @@
 # Provo SEO Pros
 
-> SEO for local businesses across the United States and Canada, since 2001. Founder-led by Rich Soto.
+> SEO company in Provo, Utah, serving local businesses across the United States and Canada since 2001. Founder-led by Rich Soto.
 
 ## Services
-- Growth Engine System: one coordinated marketing system covering SEO, AI search, website, Google Business Profile, reviews, campaigns and tracking. From $2,500 one-time.
-- Guided Implementation: a focused buildout of local SEO, Google Business Profile, service pages, website conversion and trust assets, then ongoing approved work. From $7,500 + $2,500/mo.
-- Local Visibility Starter: ongoing Google Business Profile, local SEO essentials, light technical cleanup and monthly reporting. From $900/mo + $500 setup.
-- SEO & AI Search Optimization: clearer service pages, stronger local relevance and a technically sound site. From $2,500 one-time.
-- Google Business Profile Management: a complete, accurate, trusted profile. From $900/mo + $500 setup.
-- Website Design & Conversion Optimization: a clear, mobile-ready website built to turn visitors into calls and form submissions. From $3,500.
-- CRM Automation & Lead Follow-Up: automated lead capture, instant text and email replies, follow-up sequences. From $1,500 setup + $300/mo.
-- PPC Advertising Management: Google Ads campaigns around your highest-value services. From $750/mo + ad spend.
-- Social Media Management: consistent, on-brand posts. From $750/mo.
+- [Growth Engine System](https://provoseopros.com/service/growth-engine/): one coordinated marketing system covering SEO, AI search, website, Google Business Profile, reviews, campaigns and tracking. From $2,500 one-time.
+- [Guided Implementation](https://provoseopros.com/local-authority-guided-implementation/): a focused buildout of local SEO, Google Business Profile, service pages, website conversion and trust assets, then ongoing approved work. From $7,500 + $2,500/mo.
+- [Local Visibility Starter](https://provoseopros.com/pricing/): ongoing Google Business Profile, local SEO essentials, light technical cleanup and monthly reporting. From $900/mo + $500 setup.
+- [SEO & AI Search Optimization](https://provoseopros.com/service/seo-ai-search-optimization/): clearer service pages, stronger local relevance and a technically sound site. From $2,500 one-time.
+- [Google Business Profile Management](https://provoseopros.com/service/google-business-profile-management/): a complete, accurate, trusted profile. From $900/mo + $500 setup.
+- [Website Design & Conversion Optimization](https://provoseopros.com/service/website-design-conversion-optimization/): a clear, mobile-ready website built to turn visitors into calls and form submissions. From $3,500.
+- [CRM Automation & Lead Follow-Up](https://provoseopros.com/service/crm-automation/): automated lead capture, instant text and email replies, follow-up sequences. From $1,500 setup + $300/mo.
+- [PPC Advertising Management](https://provoseopros.com/service/ppc-advertising-management/): Google Ads campaigns around your highest-value services. From $750/mo + ad spend.
+- [Social Media Management](https://provoseopros.com/service/social-media-management/): consistent, on-brand posts. From $750/mo.
 
 ## Areas served
 United States and Canada, remotely.
@@ -28,3 +28,16 @@ Address: 2650 W 820 N, Provo, UT 84601
 Phone: +1 866-402-6849
 Email: contact@provoseopros.com
 Book: https://provoseopros.com/book-a-growth-audit/
+
+## Key pages
+- [Services](https://provoseopros.com/services/): every service with starting prices
+- [Pricing](https://provoseopros.com/pricing/): starting prices and terms
+- [About](https://provoseopros.com/about/): Rich Soto, founder, SEO since 2001
+- [Contact](https://provoseopros.com/contact/): phone, email, address and hours
+- [Book a free Growth Audit](https://provoseopros.com/book-a-growth-audit/): free 30-minute call
+
+## Guides
+- [What Is a Growth Engine System?](https://provoseopros.com/what-is-a-growth-engine-system/)
+- [SEO vs AI SEO](https://provoseopros.com/seo-vs-ai-seo/)
+- [Why your website gets traffic but not leads](https://provoseopros.com/website-traffic-but-no-leads/)
+- [How CRM automation helps local businesses follow up faster](https://provoseopros.com/crm-automation-follow-up/)

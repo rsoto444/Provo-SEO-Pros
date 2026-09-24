@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
 import ChatWidget from "./_components/ChatWidget";
+import JsonLd from "./_components/JsonLd";
+import { businessSchema, founderSchema } from "@/lib/seo";
 import "./globals.css";
 import { site } from "@/lib/site.config";
 import { readFileSync } from "node:fs";
@@ -46,6 +48,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
+        {/* Who the business is, on every page: name, address, phone, hours, founder. */}
+        <JsonLd data={[businessSchema, founderSchema]} />
         {children}
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`} strategy="afterInteractive" />
         {/* GoHighLevel chat widget: the only SMS opt-in (A2P). Not on /thank-you/. */}

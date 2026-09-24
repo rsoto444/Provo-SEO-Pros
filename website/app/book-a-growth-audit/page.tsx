@@ -3,19 +3,17 @@
 import SmsConsent from "../_components/SmsConsent";
 import { site } from "@/lib/site.config";
 import SiteNav from "../_components/SiteNav";
+import { pageMeta, breadcrumbSchema } from "@/lib/seo";
+import JsonLd from "../_components/JsonLd";
 
-export const metadata = {
-  title: "Book a Free Growth Audit",
-  description: "Book a free 30-minute Growth Audit call with Provo SEO Pros. We reply within one business day.",
-  alternates: { canonical: "/book-a-growth-audit/" },
-};
+export const metadata = pageMeta({ title: "Book a Free Growth Audit | Provo SEO Pros", description: "Book a free 30-minute Growth Audit call with Provo SEO Pros. We reply within one business day.", path: "/book-a-growth-audit/" });
 
 const field = { width: "100%", minHeight: "var(--control-h, 44px)", padding: "var(--pad-control, 10px 14px)", font: "var(--type-body)", color: "var(--text-strong)", background: "var(--surface-sunken, #f0efec)", border: "1px solid var(--line-hairline, #e3e2de)", borderRadius: "var(--radius-input, 10px)" };
 const lab = { display: "grid", gap: 6, font: "var(--type-label)", letterSpacing: "0.06em", textTransform: "uppercase" as const, color: "var(--text-muted, #73726e)" };
 
 export default function Page() {
   return (
-    <>
+    <><JsonLd data={breadcrumbSchema([{ name: "Book a Free Growth Audit", path: "/book-a-growth-audit/" }])} />
     <SiteNav />
     <main style={{ maxWidth: 640, margin: "0 auto", padding: "96px 24px", fontFamily: "var(--font-core, system-ui)" }}>
       <p style={{ font: "var(--type-label)", letterSpacing: "0.08em", textTransform: "uppercase", color: "var(--text-muted, #73726e)" }}>Start here</p>

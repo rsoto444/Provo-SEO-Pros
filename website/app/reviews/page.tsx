@@ -2,8 +2,9 @@
 // /build-website fills it with the real business; until then it stays honest.
 // Kept out of search (noindex + out of the sitemap) until there are at least 3 real reviews - one review alone is a thin page.
 import SiteNav from "../_components/SiteNav";
+import { pageMeta } from "@/lib/seo";
 
-export const metadata = { title: "Reviews", robots: { index: false, follow: true } };
+export const metadata = pageMeta({ title: "Reviews | Provo SEO Pros", description: "SEO for local businesses across the United States and Canada.", path: "/reviews/", noindex: true });
 
 export default function Page() {
   return (

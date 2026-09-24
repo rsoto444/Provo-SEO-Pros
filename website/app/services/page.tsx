@@ -8,11 +8,10 @@
 import type { CSSProperties } from "react";
 import { site } from "@/lib/site.config";
 import SiteNav from "../_components/SiteNav";
+import { pageMeta, breadcrumbSchema } from "@/lib/seo";
+import JsonLd from "../_components/JsonLd";
 
-export const metadata = {
-  title: "Local SEO and Marketing Services",
-  description: "Local SEO, Google Business Profile, AI search, websites, CRM follow-up and Google Ads for local businesses in the US and Canada. Book a free Growth Audit.",
-};
+export const metadata = pageMeta({ title: "Local SEO and Marketing Services | Provo SEO Pros", description: "Local SEO, Google Business Profile, AI search, websites, CRM follow-up and Google Ads for local businesses in the US and Canada. Book a free Growth Audit.", path: "/services/" });
 
 const wrap: CSSProperties = { maxWidth: "var(--container-max, 1160px)", margin: "0 auto", padding: "0 var(--gutter, 24px)" };
 const eyebrow: CSSProperties = { font: "var(--type-label)", letterSpacing: "var(--track-label)", textTransform: "uppercase", color: "var(--text-muted)" };
@@ -24,7 +23,7 @@ const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo
 
 export default function ServicesIndex() {
   return (
-    <>
+    <><JsonLd data={breadcrumbSchema([{ name: "Services", path: "/services/" }])} />
     <SiteNav />
     <main style={{ background: "var(--surface-page, #f9f8f6)" }}>
       <section style={{ padding: "var(--space-9, 88px) 0 var(--space-7, 48px)" }}>

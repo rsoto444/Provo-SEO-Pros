@@ -3,22 +3,28 @@
 import type { Metadata } from "next";
 import SiteNav from "./SiteNav";
 import type { WpPage } from "@/lib/wp-pages";
+import JsonLd from "./JsonLd";
+import { pageMeta, articleSchema, serviceSchema, breadcrumbSchema } from "@/lib/seo";
 
 export function wpMetadata(p: WpPage): Metadata {
   const title = p.title.includes("Provo SEO Pros") ? p.title : `${p.title} | Provo SEO Pros`;
-  return {
-    title: { absolute: title },
-    description: p.description,
-    alternates: { canonical: p.path },
-    openGraph: { title, description: p.description, type: p.kind === "post" ? "article" : "website" },
-  };
+  return pageMeta({ title, description: p.description, path: p.path, type: p.kind === "post" ? "article" : "website" });
+}
+
+// Schema for a moved page: a blog post is an article by Rich, anything else is a service.
+function wpSchema(p: WpPage) {
+  const name = p.title.split(" | ")[0];
+  if (p.kind === "post") {
+    return [articleSchema(name, p.description, p.path, p.date), breadcrumbSchema([{ name: "Blog", path: "/blog/" }, { name, path: p.path }])];
+  }
+  return [serviceSchema(name, p.description, p.path), breadcrumbSchema([{ name: "Services", path: "/services/" }, { name, path: p.path }])];
 }
 
 // Shared pieces for the designed service pages. Facts only - every line here
 // was given by the owner (see CLAUDE.md "My setup").
 const heroCard = `<div class="wpx-hero-side wpx-card wpx-offer">
   <p class="wp-kicker">Free 30-minute Growth Audit</p>
-  <h3>See what's holding your business back</h3>
+  <h2 class="wpx-card-title">See what's holding your business back</h2>
   <ul>
     <li>We review your website, Google Business Profile and local search presence</li>
     <li>You get a recommended starting point</li>
@@ -45,6 +51,7 @@ export default function WpArticle({ page }: { page: WpPage }) {
   if (page.designed) {
     return (
       <>
+        <JsonLd data={wpSchema(page)} />
         <SiteNav />
         <main className="wp-content wpx" dangerouslySetInnerHTML={{ __html: designedHtml(page.designed) }} />
         <section className="wpx-band wpx-cta">
@@ -61,6 +68,7 @@ export default function WpArticle({ page }: { page: WpPage }) {
   const date = new Date(page.date + "T12:00:00Z").toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
   return (
     <>
+      <JsonLd data={wpSchema(page)} />
       <SiteNav />
       <main style={{ maxWidth: 780, margin: "0 auto", padding: "64px 24px 96px", fontFamily: "var(--font-core, system-ui)" }}>
         {isPost ? (
