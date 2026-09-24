@@ -18,7 +18,9 @@ export const site = {
   email: "contact@provoseopros.com",
   address: "Remote - serving the United States and Canada",
   city: "United States and Canada",
-  url: "https://provoseopros.com", // your live domain - used by sitemap + metadata
+  url: "https://provoseopros.com",
+  // Google Analytics 4 measurement ID (public by design - it ships in every page).
+  ga4Id: "G-FF136PBPC9", // your live domain - used by sitemap + metadata
 
   // Your services - each becomes a card on the homepage.
   // The SEO Blueprint's /build-website turns these into full service pages.

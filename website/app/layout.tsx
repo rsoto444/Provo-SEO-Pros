@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { site } from "@/lib/site.config";
 import { readFileSync } from "node:fs";
@@ -34,8 +36,20 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <style dangerouslySetInnerHTML={{ __html: ds }} />
         <style dangerouslySetInnerHTML={{ __html: fontCss }} />
+        {/* Google Analytics 4. gtag is defined up front so events fired before
+            the library finishes loading (the thank-you lead event) are queued. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${site.ga4Id}');`,
+          }}
+        />
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`} strategy="afterInteractive" />
+        {/* Vercel Web Analytics: visitor counts, no cookies. */}
+        <Analytics />
+      </body>
     </html>
   );
 }
