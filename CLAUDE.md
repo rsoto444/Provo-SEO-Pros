@@ -204,3 +204,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Live:** provoseopros.com serves the Vercel site since Wednesday 23 September 2026 (DNS only A records 216.150.1.1 and 216.150.16.1, www CNAME to Vercel, www forwards to the main domain). SPF changed from +a to ip4:35.215.68.198 so email sending is unchanged. WordPress moved to team.provoseopros.com (parked domain on SiteGround, search engines discouraged).
 - **Local Authority Managed Growth™:** part of the Growth Engine System, not a separate offer (owner, Thursday 24 September). Its page stays at /local-authority-managed-growth/; no separate card on services or pricing. GitHub default branch is main.
 - **Search Console:** sitemap submitted and showing Success; indexing requested for the 5 main pages (Thursday 24 September).
+- **Merged /service/ into /services/** (owner approved, Thursday 24 September): /service/ forwards to /services/, which now links every service page.

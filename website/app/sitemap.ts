@@ -10,7 +10,7 @@ export const dynamic = "force-static"; // required for static export (SSG)
 export default function sitemap(): MetadataRoute.Sitemap {
   // /reviews stays out until real reviews exist (it is noindexed too).
   const pages = ["", "/services", "/about", "/contact", "/book-a-growth-audit", "/pricing", "/blog",
-    ...wpPages.map((p) => p.path.replace(/\/$/, ""))];
+    ...wpPages.filter((p) => p.path !== "/service/").map((p) => p.path.replace(/\/$/, ""))];
   return pages.map((path) => ({
     url: `${site.url}${path}/`,
     lastModified: new Date(),

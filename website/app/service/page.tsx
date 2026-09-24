@@ -1,9 +1,7 @@
-import WpArticle, { wpMetadata } from "../_components/WpArticle";
-import { wpPage } from "@/lib/wp-pages";
-
-const page = wpPage("/service/")!;
-export const metadata = wpMetadata(page);
+// The old WordPress services list was merged into /services/ (owner approved,
+// Thursday 24 September 2026). The individual /service/... pages still live here.
+import { permanentRedirect } from "next/navigation";
 
 export default function Page() {
-  return <WpArticle page={page} />;
+  permanentRedirect("/services/");
 }

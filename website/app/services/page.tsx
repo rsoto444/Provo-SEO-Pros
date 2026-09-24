@@ -20,7 +20,7 @@ const h1s: CSSProperties = { font: "var(--type-display)", letterSpacing: "var(--
 const h2s: CSSProperties = { font: "var(--type-h2)", letterSpacing: "var(--track-heading)", color: "var(--text-strong)", margin: 0 };
 const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-body)", margin: "var(--space-3) 0 0", maxWidth: "52ch" };
 
-const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo: s.photo, photoAlt: s.photoAlt, more: "more" in s ? s.more : undefined }));
+const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo: s.photo, photoAlt: s.photoAlt, more: "more" in s ? s.more : undefined, page: "page" in s ? s.page : undefined }));
 
 export default function ServicesIndex() {
   return (
@@ -52,7 +52,7 @@ export default function ServicesIndex() {
         >
           <div style={{ ...wrap, display: "grid", gap: "var(--space-7, 48px)", gridTemplateColumns: "minmax(0,1fr) minmax(0,420px)", alignItems: "center" }}>
             <div>
-              <h2 style={h2s}>{s.name}</h2>
+              <h2 style={h2s}>{s.page ? <a href={s.page} style={{ color: "inherit", textDecoration: "none" }}>{s.name}</a> : s.name}</h2>
               <p style={body}>{s.blurb}</p>
               {s.more ? (
                 <p style={{ ...body, margin: "var(--space-3) 0 0" }}>
@@ -60,6 +60,9 @@ export default function ServicesIndex() {
                 </p>
               ) : null}
               <p style={{ ...body, margin: "var(--space-4) 0 0" }}>
+                {s.page ? (
+                  <><a href={s.page} style={{ color: "var(--text-link, #0b62c9)" }}>See how {s.name} works &rarr;</a><br /></>
+                ) : null}
                 <a href="/contact/#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
               </p>
             </div>
@@ -72,6 +75,17 @@ export default function ServicesIndex() {
           </div>
         </section>
       ))}
+
+      <section style={{ padding: "var(--space-8, 64px) 0", borderTop: "1px solid var(--line-hairline, #e3e2de)" }}>
+        <div style={wrap}>
+          <h2 style={h2s}>More ways we help</h2>
+          <ul style={{ ...body, paddingLeft: 20, display: "grid", gap: 8 }}>
+            {site.moreServices.map((m) => (
+              <li key={m.href}><a href={m.href} style={{ color: "var(--text-link, #0b62c9)" }}>{m.name}</a></li>
+            ))}
+          </ul>
+        </div>
+      </section>
 
       <section style={{ padding: "var(--space-8, 64px) 0", borderTop: "1px solid var(--line-hairline, #e3e2de)" }}>
         <div style={wrap}>

@@ -100,17 +100,12 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 # Moved from WordPress, same address · 18
 
-## Service · page
-
+## Service · merged
 **Route:**
- - /service/
- - [file](website/lib/wp-pages.ts)
-**About:** the owner's WordPress words, copied as they were.
+ - /service/ → now forwards to /services/
+**About:** the old WordPress services list, merged into /services/ (owner approved, Thursday 24 September). Every /service/... page still lives at its own address and is linked from /services/.
 **Status:**
- - published
- - in the sitemap
- - old address kept
-
+ - redirected
 ## Website Design & Conversion Optimization · service page
 
 **Route:**

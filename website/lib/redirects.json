@@ -1,5 +1,9 @@
 [
  {
+  "source": "/service/",
+  "destination": "/services/"
+ },
+ {
   "source": "/what-is-a-growth-engine-system-for-local-businesses/",
   "destination": "/what-is-a-growth-engine-system/"
  },
