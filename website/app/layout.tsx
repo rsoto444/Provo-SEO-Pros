@@ -47,6 +47,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         {children}
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`} strategy="afterInteractive" />
+        {/* GoHighLevel chat widget (Provo SEO Pros). Required by the A2P campaign
+            setup, and it collects text-message consent inside the chat. */}
+        <script
+          async
+          src="https://widgets.leadconnectorhq.com/loader.js"
+          data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
+          data-widget-id="6ab58410fad6c0284b9bf1e2"
+          data-source="WEB_USER"
+        />
         {/* Vercel Web Analytics: visitor counts, no cookies. */}
         <Analytics />
       </body>
