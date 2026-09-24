@@ -126,3 +126,8 @@
   .wpx-hero { padding: 48px 0 56px; }
   .wpx-band { padding: 52px 0; }
 }
+/* Growth Engine: the three options, priced */
+.wpx .wpx-tier { display: flex; flex-direction: column; border-top: 4px solid var(--blue-600); }
+.wpx .wpx-tier .wpx-price { font: var(--weight-bold) 22px/1.25 var(--font-core); color: var(--text-strong); margin: 4px 0 12px; }
+.wpx .wpx-tier a:last-child { margin-top: auto; padding-top: 8px; font-weight: 700; }
+.wpx .wpx-tier p.wp-step { align-self: flex-start; }
