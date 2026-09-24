@@ -1,4 +1,8 @@
 import { fileURLToPath } from "node:url";
+import { readFileSync } from "node:fs";
+
+// Old WordPress addresses and their new homes (see lib/redirects.json).
+const wpRedirects = JSON.parse(readFileSync(new URL("./lib/redirects.json", import.meta.url), "utf8"));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -20,6 +24,11 @@ const nextConfig = {
   // fileURLToPath, NOT .pathname - .pathname leaves a folder with a space in it
   // percent-encoded ("Claude%20Code"), which points at a directory that does not exist.
   outputFileTracingRoot: fileURLToPath(new URL(".", import.meta.url)),
+
+  // Permanent redirects for every old WordPress address that moved.
+  async redirects() {
+    return wpRedirects.map((r) => ({ ...r, permanent: true }));
+  },
 
   // 301 redirects live at the HOST layer so they work identically on any host.
   // On Vercel: vercel.json "redirects". The SEO Blueprint's /build-website

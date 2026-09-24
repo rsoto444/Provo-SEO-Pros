@@ -6,6 +6,7 @@
 // link, one-sentence hook, date. Posts live FLAT at /blog/[slug].
 import type { CSSProperties } from "react";
 import SiteNav from "../_components/SiteNav";
+import { wpPages } from "@/lib/wp-pages";
 
 export const metadata = {
   title: "Blog",
@@ -17,8 +18,12 @@ const eyebrow: CSSProperties = { font: "var(--type-label)", letterSpacing: "var(
 const h1s: CSSProperties = { font: "var(--type-display)", letterSpacing: "var(--track-display)", color: "var(--text-strong)", margin: "var(--space-4) 0 0" };
 const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-body)", margin: "var(--space-3) 0 0", maxWidth: "52ch" };
 
-// /blog-post adds entries here, newest first: { slug, title, hook, date }
-const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: string }> = [];
+// The 4 posts carried over from WordPress live at their original root-level
+// addresses (e.g. /seo-vs-ai-seo/), so they link from here without the /blog/ prefix.
+const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: string }> = wpPages
+  .filter((p) => p.kind === "post")
+  .sort((a, b) => b.date.localeCompare(a.date))
+  .map((p) => ({ slug: p.path.replace(/^\/|\/$/g, ""), title: p.title, hook: p.description, date: p.date }));
 
 export default function BlogIndex() {
   return (
@@ -56,8 +61,8 @@ export default function BlogIndex() {
             <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "var(--space-5, 24px)" }}>
               {POSTS.map((post) => (
                 <li key={post.slug} style={{ borderBottom: "1px solid var(--line-hairline, #e3e2de)", paddingBottom: "var(--space-5, 24px)" }}>
-                  <p style={{ ...eyebrow, marginBottom: 6 }}>{post.date}</p>
-                  <a href={`/blog/${post.slug}`} style={{ font: "var(--type-h2)", color: "var(--text-strong)", textDecoration: "none" }}>
+                  <p style={{ ...eyebrow, marginBottom: 6 }}>{new Date(post.date + "T12:00:00Z").toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+                  <a href={`/${post.slug}/`} style={{ font: "var(--type-h2)", color: "var(--text-strong)", textDecoration: "none" }}>
                     {post.title}
                   </a>
                   <p style={{ ...body, marginTop: 8 }}>{post.hook}</p>

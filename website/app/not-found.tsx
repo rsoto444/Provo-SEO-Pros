@@ -8,7 +8,7 @@ export default function NotFound() {
       <p className="mt-3 text-gray-600">Here's where most people were heading:</p>
       <div className="mt-6 flex flex-wrap justify-center gap-3">
         <a href="/services/" className="underline">Services</a>
-        <a href="/quote/" className="underline">Book a free Growth Audit</a>
+        <a href="/book-a-growth-audit/" className="underline">Book a free Growth Audit</a>
         <a href="/pricing/" className="underline">Pricing</a>
         <a href="/contact/" className="underline">Contact</a>
       </div>

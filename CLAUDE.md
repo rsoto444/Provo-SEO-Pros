@@ -193,3 +193,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Brand colour:** blue ramp from the logo. Navy #17284D (darkest), logo light blue #60B0F8, main blue #2272E0 (passes contrast with white text).
 - **Booking calendar:** Rich Soto Calendar (30 min), shown on the thank-you page after a form is sent.
 - **Launch decision (Thursday 24 September):** replace WordPress with the Vercel site. Carry over WordPress pages and posts, redirect every old URL, leave WordPress untouched as a backup.
+- **WordPress move (Thursday 24 September):** 18 pages and posts carried over word for word at their original addresses; 4 duplicates redirected; 8 old dead links redirected; /quote/ forwards to /book-a-growth-audit/. Redirect list in website/lib/redirects.json. Setter pages (/setter-academy/, /provo-seo-pros-setter-training-hub/) not moved: their content lives in a WordPress plugin. Owner wants them private.
