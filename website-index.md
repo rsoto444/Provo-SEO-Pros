@@ -1,10 +1,10 @@
 # Website Index
 
-> Every page on the new Provo SEO Pros site. Made Thursday 24 September 2026. **Next action:** run `/publish` to put it live.
+> Every page on the Provo SEO Pros site. Live on provoseopros.com since Wednesday 23 September 2026 (evening, Mountain time). **Next action:** submit the sitemap in Google Search Console.
 
 Status: **Draft** (built, shows in the preview) → **Published** (live on provoseopros.com)
 
-**Decide first:** during `/publish`, move WordPress to team.provoseopros.com so the two setter pages keep working there. Their old addresses already forward to it.
+**Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
 # Built for the new site · 9
 
@@ -15,7 +15,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/page.tsx)
 **About:** the main page: three headline services, how it works, the booking form, FAQ.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Services · services index
@@ -25,7 +25,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/page.tsx)
 **About:** all nine services with a photo and a booking link each.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Pricing · standard page
@@ -35,7 +35,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/pricing/page.tsx)
 **About:** starting price for every service, plus the terms in plain words.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## About · standard page
@@ -45,7 +45,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/about/page.tsx)
 **About:** Rich's story since 2001, headshot, how we work.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Contact · standard page
@@ -55,7 +55,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/contact/page.tsx)
 **About:** phone, email, hours and the booking form.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Book a Growth Audit · booking page
@@ -65,7 +65,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/book-a-growth-audit/page.tsx)
 **About:** the five-field booking form. Same address as on WordPress.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Thank you · thank-you page
@@ -75,7 +75,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/thank-you/page.tsx)
 **About:** shown after a form is sent. Shows Rich's calendar. Hidden from Google.
 **Status:**
- - draft
+ - published
  - kept out of the sitemap
 
 ## Privacy Policy · legal
@@ -85,7 +85,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/privacy-policy/page.tsx)
 **About:** the owner's WordPress policy, word for word, new contact details.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 ## Terms and Conditions · legal
@@ -95,7 +95,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/terms-and-conditions/page.tsx)
 **About:** the owner's WordPress terms, word for word, new contact details.
 **Status:**
- - draft
+ - published
  - in the sitemap
 
 # Moved from WordPress, same address · 18
@@ -107,7 +107,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -118,7 +118,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -129,7 +129,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -140,7 +140,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -151,7 +151,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -162,7 +162,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -173,7 +173,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -184,7 +184,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -195,7 +195,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -206,7 +206,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -217,7 +217,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -228,7 +228,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -239,7 +239,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -250,7 +250,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -261,7 +261,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -272,7 +272,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -283,7 +283,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
@@ -294,7 +294,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/wp-pages.ts)
 **About:** the owner's WordPress words, copied as they were.
 **Status:**
- - draft
+ - published
  - in the sitemap
  - old address kept
 
