@@ -1,5 +1,6 @@
 // Standard page, minimally styled to the shipped design system.
 // The booking page, at the same address it had on WordPress. Also the ads-sitelink landing page.
+import SmsConsent from "../_components/SmsConsent";
 import { site } from "@/lib/site.config";
 import SiteNav from "../_components/SiteNav";
 
@@ -36,7 +37,7 @@ export default function Page() {
             <option value="Not sure yet">Not sure yet</option>
           </select>
         </label>
-        <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--surface-brand, #0b62c9)", color: "var(--text-inverse, #fff)", font: "var(--type-button)", cursor: "pointer" }}>Book my free Growth Audit</button>
+        <SmsConsent /> <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--surface-brand, #0b62c9)", color: "var(--text-inverse, #fff)", font: "var(--type-button)", cursor: "pointer" }}>Book my free Growth Audit</button>
         <p style={{ font: "var(--type-caption)", color: "var(--text-muted, #73726e)", margin: 0, textAlign: "center" }}>
           Rather talk now? Call <a href={`tel:${site.phone.replace(/[^+\d]/g, "")}`} style={{ color: "var(--text-link, #0b62c9)" }}>{site.phone}</a>, Monday to Friday, 9am to 5pm MT.
         </p>
