@@ -12,7 +12,7 @@ export default function ChatWidget() {
       async
       src="https://widgets.leadconnectorhq.com/loader.js"
       data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
-      data-widget-id="6ab58410fad6c0284b9bf1e2"
+      data-widget-id="6ab5849136d62147628e29db"
       data-source="WEB_USER"
     />
   );
