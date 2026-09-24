@@ -200,3 +200,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Vercel:** project provo-seo-pros in the Soto Growth Systems team. Connected to GitHub rsoto444/Provo-SEO-Pros, publishes the main branch. Root Directory = website (package.json lives in ./website). LEAD_WEBHOOK_URL set for production and preview.
 - **Commit email for deploys:** rsoto443@gmail.com (matches the Vercel account, so deploys aren't blocked).
 - **DNS:** Cloudflare (nameservers jeff/paityn.ns.cloudflare.com). Email MX points to SiteGround anti-spam, and crm./app. are GoHighLevel. Never change those.
+- **Old solar subdomains** (brewster-solar, queens-solar, msgulfcoast and similar CNAMEs to provoseopros.com in Cloudflare): owner says not used anymore. Left as they are; after the switch they show a Vercel error. Needs your approval to remove: deleting those DNS records later is tidy but optional.
