@@ -65,3 +65,8 @@
 .wp-content summary { cursor: pointer; font-weight: 700; color: var(--text-strong); }
 .wp-content small { display: block; color: var(--text-muted); }
 .wp-btn, .wp-content a.wp-btn { display: inline-block; margin: 4px 8px 4px 0; padding: 12px 20px; border-radius: var(--radius-control, 999px); background: var(--surface-accent, #1a1a1a); color: var(--text-on-accent, #fff) !important; text-decoration: none; font: var(--type-button); }
+.wp-content p.wp-kicker { font: var(--type-label); letter-spacing: var(--track-label, 0.08em); text-transform: uppercase; color: var(--text-brand); margin: 36px 0 6px; }
+.wp-content p.wp-kicker + h1, .wp-content p.wp-kicker + h2, .wp-content p.wp-kicker + h3 { margin-top: 0; }
+.wp-content p.wp-step { display: inline-block; font: var(--weight-bold) var(--size-body-sm)/1 var(--font-core); color: var(--text-brand); background: var(--surface-brand-soft); border-radius: 999px; padding: 5px 10px; margin: 18px 0 2px; }
+.wp-content p.wp-step + h3, .wp-content p.wp-step + h4 { margin-top: 6px; }
+.wp-content p.wp-note { font-weight: 700; color: var(--text-strong); }
