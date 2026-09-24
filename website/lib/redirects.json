@@ -50,5 +50,13 @@
  {
   "source": "/quote/",
   "destination": "/book-a-growth-audit/"
+ },
+ {
+  "source": "/setter-academy/",
+  "destination": "https://team.provoseopros.com/setter-academy/"
+ },
+ {
+  "source": "/provo-seo-pros-setter-training-hub/",
+  "destination": "https://team.provoseopros.com/provo-seo-pros-setter-training-hub/"
  }
 ]

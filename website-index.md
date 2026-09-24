@@ -4,7 +4,7 @@
 
 Status: **Draft** (built, shows in the preview) → **Published** (live on provoseopros.com)
 
-**Decide first:** the two setter pages from WordPress (/setter-academy/ and /provo-seo-pros-setter-training-hub/) are not on the new site yet. Their content lives inside a WordPress plugin.
+**Decide first:** during `/publish`, move WordPress to team.provoseopros.com so the two setter pages keep working there. Their old addresses already forward to it.
 
 # Built for the new site · 9
 
@@ -232,7 +232,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - in the sitemap
  - old address kept
 
-## Local Authority Guided Implementation™ · page
+## Guided Implementation™ · page
 
 **Route:**
  - /local-authority-guided-implementation/

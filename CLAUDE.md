@@ -194,3 +194,6 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Booking calendar:** Rich Soto Calendar (30 min), shown on the thank-you page after a form is sent.
 - **Launch decision (Thursday 24 September):** replace WordPress with the Vercel site. Carry over WordPress pages and posts, redirect every old URL, leave WordPress untouched as a backup.
 - **WordPress move (Thursday 24 September):** 18 pages and posts carried over word for word at their original addresses; 4 duplicates redirected; 8 old dead links redirected; /quote/ forwards to /book-a-growth-audit/. Redirect list in website/lib/redirects.json. Setter pages (/setter-academy/, /provo-seo-pros-setter-training-hub/) not moved: their content lives in a WordPress plugin. Owner wants them private.
+- **Offer name:** "Guided Implementation™" everywhere (owner, Thursday 24 September). The moved WordPress page keeps its address /local-authority-guided-implementation/.
+- **Setter pages:** stay on WordPress at team.provoseopros.com (to set up during /publish, hidden from Google). The old addresses forward there.
+- **/service/ page images:** skipped on purpose (owner, Thursday 24 September).
