@@ -34,6 +34,11 @@ export default function Page() {
               <strong style={{ color: "var(--text-strong, #1a1a19)" }}>{s.price}</strong>
             </div>
             <p style={{ ...body, marginTop: 8 }}>{s.blurb}</p>
+            {"more" in s && s.more ? (
+              <p style={{ ...body, marginTop: 8 }}>
+                <a href={s.more.href} style={{ color: "var(--text-link, #0b62c9)" }}>{s.more.label} &rarr;</a>
+              </p>
+            ) : null}
           </section>
         ))}
       </div>

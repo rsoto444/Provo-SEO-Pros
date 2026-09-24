@@ -20,7 +20,7 @@ const h1s: CSSProperties = { font: "var(--type-display)", letterSpacing: "var(--
 const h2s: CSSProperties = { font: "var(--type-h2)", letterSpacing: "var(--track-heading)", color: "var(--text-strong)", margin: 0 };
 const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-body)", margin: "var(--space-3) 0 0", maxWidth: "52ch" };
 
-const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo: s.photo, photoAlt: s.photoAlt }));
+const SERVICES = site.services.map((s) => ({ name: s.name, blurb: s.blurb, photo: s.photo, photoAlt: s.photoAlt, more: "more" in s ? s.more : undefined }));
 
 export default function ServicesIndex() {
   return (
@@ -54,6 +54,11 @@ export default function ServicesIndex() {
             <div>
               <h2 style={h2s}>{s.name}</h2>
               <p style={body}>{s.blurb}</p>
+              {s.more ? (
+                <p style={{ ...body, margin: "var(--space-3) 0 0" }}>
+                  <a href={s.more.href} style={{ color: "var(--text-link, #0b62c9)" }}>{s.more.label} &rarr;</a>
+                </p>
+              ) : null}
               <p style={{ ...body, margin: "var(--space-4) 0 0" }}>
                 <a href="/contact/#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
               </p>
