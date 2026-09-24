@@ -1,6 +1,6 @@
 # Website Index
 
-> Every page on the Provo SEO Pros site. Live on provoseopros.com since Wednesday 23 September 2026 (evening, Mountain time). **Next action:** submit the sitemap in Google Search Console.
+> Every page on the Provo SEO Pros site. Live on provoseopros.com since Wednesday 23 September 2026 (evening, Mountain time). **Next action:** none today. Sitemap submitted and accepted in Google Search Console (Thursday 24 September); check back in 2 weeks.
 
 Status: **Draft** (built, shows in the preview) → **Published** (live on provoseopros.com)
 
