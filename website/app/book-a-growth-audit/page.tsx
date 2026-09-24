@@ -28,7 +28,7 @@ export default function Page() {
         <input type="hidden" name="form" value="book-a-growth-audit" />
         <label style={lab}>Your name *<input name="name" required autoComplete="name" placeholder="Your name" style={field} /></label>
         <label style={lab}>Email *<input type="email" name="email" required autoComplete="email" placeholder="Your email address" style={field} /></label>
-        <label style={lab}>Phone<input type="tel" name="phone" autoComplete="tel" placeholder="Best number to reach you" style={field} /></label>
+        {/* Hidden: A2P: the GoHighLevel chat widget is the only SMS opt-in (owner decision) */}{false && (<label style={lab}>Phone<input type="tel" name="phone" autoComplete="tel" placeholder="Best number to reach you" style={field} /></label>)}
         <label style={lab}>Your website<input type="text" inputMode="url" name="website" autoComplete="url" placeholder="Your website address" style={field} /></label>
         <label style={lab}>Which service?
           <select name="service" style={field} defaultValue="">
@@ -37,7 +37,7 @@ export default function Page() {
             <option value="Not sure yet">Not sure yet</option>
           </select>
         </label>
-        <SmsConsent /> <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--surface-brand, #0b62c9)", color: "var(--text-inverse, #fff)", font: "var(--type-button)", cursor: "pointer" }}>Book my free Growth Audit</button>
+        {/* Hidden: A2P: the GoHighLevel chat widget is the only SMS opt-in (owner decision) */}{false && <SmsConsent />} <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--surface-brand, #0b62c9)", color: "var(--text-inverse, #fff)", font: "var(--type-button)", cursor: "pointer" }}>Book my free Growth Audit</button>
         <p style={{ font: "var(--type-caption)", color: "var(--text-muted, #73726e)", margin: 0, textAlign: "center" }}>
           Rather talk now? Call <a href={`tel:${site.phone.replace(/[^+\d]/g, "")}`} style={{ color: "var(--text-link, #0b62c9)" }}>{site.phone}</a>, Monday to Friday, 9am to 5pm MT.
         </p>

@@ -16,7 +16,7 @@ export const site = {
   bookingUrl: "https://api.leadconnectorhq.com/widget/booking/zzAK5q1XnER39WzXYv6o" as string | null, // Rich Soto Calendar, 30 min
   phone: "+1 866-402-6849",
   email: "contact@provoseopros.com",
-  address: "Remote - serving the United States and Canada",
+  address: "2650 W 820 N, Provo, UT 84601",
   city: "United States and Canada",
   url: "https://provoseopros.com",
   // Google Analytics 4 measurement ID (public by design - it ships in every page).
