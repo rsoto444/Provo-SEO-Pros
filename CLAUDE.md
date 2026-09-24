@@ -205,3 +205,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Local Authority Managed Growth™:** part of the Growth Engine System, not a separate offer (owner, Thursday 24 September). Its page stays at /local-authority-managed-growth/; no separate card on services or pricing. GitHub default branch is main.
 - **Search Console:** sitemap submitted and showing Success; indexing requested for the 5 main pages (Thursday 24 September).
 - **Merged /service/ into /services/** (owner approved, Thursday 24 September): /service/ forwards to /services/, which now links every service page.
+- **Real proof:** 1 Google review (Zack Vincent, 5 stars, October 20 2025): "Rich is awesome! He is an expert in his field and I can't recommend him enough! Thank you!" Shown as "Zack V." on the homepage and /reviews/. Only one review, so no star-count badge yet. Google review link: https://search.google.com/local/writereview?placeid=ChIJPQqUNYebTYcR9jBBeUaPb2U
