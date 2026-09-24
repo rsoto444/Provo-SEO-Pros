@@ -3,6 +3,7 @@
 // comes from site.config.ts (owner-supplied, see CLAUDE.md "My setup").
 import type { Metadata } from "next";
 import { site } from "./site.config";
+import { seoMeta } from "./seo-meta";
 
 const OG_IMAGE = { url: "/images/og.png", width: 1200, height: 630, alt: "Provo SEO Pros logo" };
 
@@ -14,7 +15,10 @@ type PageMetaInput = {
   noindex?: boolean;
 };
 
-export function pageMeta({ title, description, path, type = "website", noindex }: PageMetaInput): Metadata {
+export function pageMeta(input: PageMetaInput): Metadata {
+  const { path, type = "website", noindex } = input;
+  // Audited title/description wins when one exists for this address.
+  const { title, description } = seoMeta[path] ?? input;
   return {
     title: { absolute: title },
     description,
