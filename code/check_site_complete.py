@@ -197,7 +197,7 @@ def main():
         if route.startswith("/services/") and len(parts) == 3:
             hub = "/" + "/".join(parts[:2])
             _, hub_html = fetch(hub)
-            if f'href="{route}"' not in hub_html:
+            if f'href="{route}"' not in hub_html and f'href="{route}/"' not in hub_html:
                 failures.append(f"hub {hub} does not link down to its spoke {route}")
             else:
                 # a footnote link is not a section: the hub needs a heading
@@ -207,17 +207,18 @@ def main():
                     failures.append(
                         f'hub {hub} links its spokes but has no "Areas we serve" section heading - city links must be a real section, not a footnote')
             _, spoke_html = fetch(route)
-            if f'href="{hub}"' not in spoke_html:
+            if f'href="{hub}"' not in spoke_html and f'href="{hub}/"' not in spoke_html:
                 failures.append(f"spoke {route} does not link up to its hub {hub}")
     _, blog_html = fetch("/blog")
     for route in sorted(route_set):
         if route.startswith("/blog/") and route != "/blog":
-            if f'href="{route}"' not in blog_html:
+            if f'href="{route}"' not in blog_html and f'href="{route}/"' not in blog_html:
                 failures.append(f"/blog index does not link {route}")
     for main in ("/", "/services", "/about", "/blog", "/contact"):
         _, html = fetch(main)
         for must in ("/services", "/blog"):
-            if f'href="{must}"' not in html:
+            # sites with trailingSlash (e.g. migrated from WordPress) link "/blog/"
+            if f'href="{must}"' not in html and f'href="{must}/"' not in html:
                 failures.append(f"nav on {main} has no link to {must}")
 
     # 5b. index pages are real indexes, not a child's page type

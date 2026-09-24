@@ -38,10 +38,10 @@ export const site = {
   // page is fresh - /write-ads reads them rather than inventing them months later.
   // Titles max 25 characters, each description line max 35.
   sitelinks: [
-    { title: "Free Growth Audit", url: "/quote",    lines: ["Free 30-minute call", "Reply in 1 business day"] },
-    { title: "Our Services",      url: "/services", lines: ["Local SEO, GBP, AI search", "Websites, CRM and Google Ads"] },
-    { title: "Pricing",           url: "/pricing",  lines: ["Starting prices up front", "Terms confirmed in writing"] },
-    { title: "About Us",          url: "/about",    lines: ["Founder-led since 2001", "Serving the US and Canada"] },
-    { title: "Contact",           url: "/contact",  lines: ["Call or book online", "Mon to Fri, 9am to 5pm MT"] },
+    { title: "Free Growth Audit", url: "/quote/",    lines: ["Free 30-minute call", "Reply in 1 business day"] },
+    { title: "Our Services",      url: "/services/", lines: ["Local SEO, GBP, AI search", "Websites, CRM and Google Ads"] },
+    { title: "Pricing",           url: "/pricing/",  lines: ["Starting prices up front", "Terms confirmed in writing"] },
+    { title: "About Us",          url: "/about/",    lines: ["Founder-led since 2001", "Serving the US and Canada"] },
+    { title: "Contact",           url: "/contact/",  lines: ["Call or book online", "Mon to Fri, 9am to 5pm MT"] },
   ],
 };

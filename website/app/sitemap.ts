@@ -10,7 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // /reviews stays out until real reviews exist (it is noindexed too).
   const pages = ["", "/services", "/about", "/contact", "/quote", "/pricing"];
   return pages.map((path) => ({
-    url: `${site.url}${path}`,
+    url: `${site.url}${path}/`,
     lastModified: new Date(),
     priority: path === "" ? 1 : 0.8,
   }));

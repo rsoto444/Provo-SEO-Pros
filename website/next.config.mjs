@@ -9,6 +9,10 @@ const nextConfig = {
   //   - /api/lead      the form endpoint (keeps the webhook URL server-side)
   //   - /proposal/[slug]  reads Supabase at request time
   // Confirm it on the build output: every marketing route stays ○ (Static).
+  // Match the old WordPress URLs exactly (they all end in "/"), so every existing
+  // link and Google result lands on the same address with no redirect.
+  trailingSlash: true,
+
   images: { unoptimized: true }, // no image CDN bill; compress to WebP at build instead
 
   // A stray package-lock.json in the home directory makes Next guess the wrong

@@ -36,7 +36,7 @@ export default function ServicesIndex() {
             Not sure where to start? That&rsquo;s what the free 30-minute Growth Audit is for.
           </p>
           <p style={{ ...body, margin: "var(--space-5) 0 0" }}>
-            <a href="/contact#book" style={{ display: "inline-block", padding: "12px 22px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", textDecoration: "none", font: "var(--type-button)" }}>Book a free Growth Audit</a>
+            <a href="/contact/#book" style={{ display: "inline-block", padding: "12px 22px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", textDecoration: "none", font: "var(--type-button)" }}>Book a free Growth Audit</a>
           </p>
         </div>
       </section>
@@ -55,7 +55,7 @@ export default function ServicesIndex() {
               <h2 style={h2s}>{s.name}</h2>
               <p style={body}>{s.blurb}</p>
               <p style={{ ...body, margin: "var(--space-4) 0 0" }}>
-                <a href="/contact#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
+                <a href="/contact/#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask about {s.name} on a free Growth Audit call &rarr;</a>
               </p>
             </div>
             <img

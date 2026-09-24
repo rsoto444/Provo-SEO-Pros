@@ -27,5 +27,5 @@ export async function POST(request: Request) {
   if (!res.ok) {
     return NextResponse.json({ ok: false, error: `Webhook responded ${res.status}` }, { status: 502 });
   }
-  return NextResponse.redirect(new URL("/thank-you", request.url), 303);
+  return NextResponse.redirect(new URL("/thank-you/", request.url), 303);
 }

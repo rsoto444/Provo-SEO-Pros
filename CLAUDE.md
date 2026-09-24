@@ -154,7 +154,7 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Phone:** +1 866-402-6849
 - **Email:** contact@provoseopros.com
 - **Main goal of the site:** a booked strategy call
-- **Platform:** Next.js, deployed on Vercel
+- **Platform:** new site built in Next.js for Vercel. The CURRENT live provoseopros.com is WordPress on SiteGround (bot-protected, so pages must be pasted in). Old URLs must be kept or redirected at launch.
 - **Real proof so far:** none yet (no reviews, numbers or results). Leave proof slots as flagged placeholders.
 - **Style:** calm
 - **Lead webhook:** connected to GoHighLevel (Provo SEO Pros sub-account). URL kept in .env and website/.env.local, never committed. Must also be added in Vercel as LEAD_WEBHOOK_URL before going live. Tested end to end Wednesday 23 September: contact created and tagged website-growth-audit.
@@ -192,3 +192,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - **Services list is now nine** (added Local Visibility Starter, From $900/mo + $500 setup, and Guided Implementation™, From $7,500 + $2,500/mo). Descriptions approved by the owner on Wednesday 23 September.
 - **Brand colour:** blue ramp from the logo. Navy #17284D (darkest), logo light blue #60B0F8, main blue #2272E0 (passes contrast with white text).
 - **Booking calendar:** Rich Soto Calendar (30 min), shown on the thank-you page after a form is sent.
+- **Launch decision (Thursday 24 September):** replace WordPress with the Vercel site. Carry over WordPress pages and posts, redirect every old URL, leave WordPress untouched as a backup.

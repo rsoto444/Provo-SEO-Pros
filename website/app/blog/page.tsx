@@ -50,7 +50,7 @@ export default function BlogIndex() {
               }}
             >
               The first posts are on their way. Have a question now?{" "}
-              <a href="/contact#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask it on a free Growth Audit call</a>.
+              <a href="/contact/#book" style={{ color: "var(--text-link, #0b62c9)" }}>Ask it on a free Growth Audit call</a>.
             </div>
           ) : (
             <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "var(--space-5, 24px)" }}>

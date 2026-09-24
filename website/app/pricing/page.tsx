@@ -23,7 +23,7 @@ export default function Page() {
         before any work begins. Not sure what fits? Start with a free 30-minute Growth Audit call.
       </p>
       <p style={{ margin: "24px 0 0" }}>
-        <a href="/contact#book" style={{ display: "inline-block", padding: "12px 22px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", textDecoration: "none", font: "var(--type-button)" }}>Book a free Growth Audit</a>
+        <a href="/contact/#book" style={{ display: "inline-block", padding: "12px 22px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", textDecoration: "none", font: "var(--type-button)" }}>Book a free Growth Audit</a>
       </p>
 
       <div style={{ display: "grid", gap: 16, marginTop: 48 }}>

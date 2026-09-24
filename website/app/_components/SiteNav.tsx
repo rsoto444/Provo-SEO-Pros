@@ -14,14 +14,14 @@ export default function SiteNav() {
         </a>
         <nav style={{ display: "flex", flexWrap: "wrap", gap: "var(--space-5, 24px)" }}>
           <a href="/" style={link}>Home</a>
-          <a href="/services" style={link}>Services</a>
-          <a href="/about" style={link}>About</a>
-          <a href="/blog" style={link}>Blog</a>
-          <a href="/contact" style={link}>Contact</a>
+          <a href="/services/" style={link}>Services</a>
+          <a href="/about/" style={link}>About</a>
+          <a href="/blog/" style={link}>Blog</a>
+          <a href="/contact/" style={link}>Contact</a>
         </nav>
         <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: "var(--space-4, 16px)" }}>
           <a href={`tel:${site.phone.replace(/[^+\d]/g, "")}`} style={{ ...link, font: "var(--type-body)", color: "var(--text-strong)" }}>{site.phone}</a>
-          <a href="/contact#book" style={{ textDecoration: "none", padding: "12px 16px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", font: "var(--type-button)", whiteSpace: "nowrap" }}>Book a free Growth Audit</a>
+          <a href="/contact/#book" style={{ textDecoration: "none", padding: "12px 16px", borderRadius: "var(--radius-control, 999px)", background: "var(--surface-accent, #1a1a1a)", color: "var(--text-on-accent, #fff)", font: "var(--type-button)", whiteSpace: "nowrap" }}>Book a free Growth Audit</a>
         </div>
       </div>
     </header>
