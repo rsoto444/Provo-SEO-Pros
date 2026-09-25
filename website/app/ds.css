@@ -57,7 +57,7 @@ button,input,select,textarea{font-family:inherit;font-size:inherit}
 --info-600:#0b62c9;--info-500:#0a7cff;--info-50:#e8f2ff;
 
 /* Semantic — text */
---text-strong:var(--ink-900);--text-body:var(--ink-700);--text-muted:var(--ink-500);--text-faint:var(--ink-400);--text-inverse:var(--white);--text-brand:var(--blue-700);--text-accent:var(--accent-600);--text-link:var(--blue-700);--text-link-hover:var(--blue-600);
+--text-strong:var(--ink-900);--text-body:var(--ink-700);--text-muted:#6b6a66;--text-faint:#767570;--text-inverse:var(--white);--text-brand:var(--blue-700);--text-accent:var(--accent-600);--text-link:var(--blue-700);--text-link-hover:var(--blue-600);
 /* Semantic — surfaces */
 --surface-page:var(--white);--surface-card:var(--white);--surface-sunken:var(--ink-100);--surface-tint:var(--blue-50);--surface-brand:var(--blue-600);--surface-brand-deep:var(--blue-700);--surface-brand-soft:var(--blue-100);--surface-accent:var(--accent-800);--surface-accent-soft:var(--ink-100);--surface-inverse:var(--ink-900);--surface-overlay:rgba(26,26,25,.5);
 /* Semantic — lines */
