@@ -18,13 +18,8 @@ Done Thursday 24 September, live. All 28 pages now name their one true address.
 ### [x] 6. Add a browser icon and a share image · both missing
 Done Thursday 24 September, live. There's now a browser icon made from your mountain logo, plus a share image (your logo with "SEO for local businesses since 2001, Provo, Utah"). Every page has share tags.
 
-### [ ] 7. Fix titles and descriptions · drafted, waiting on your look
-
-All 24 pages now have a new title (50 to 60 characters) and description (140 to 160), each built from facts already on the page. They're saved but not live yet, because I promised you'd see them first. The full list is in chat.
-
-**Who:** you say go, then me
-**Time:** 2 min to publish
-**Changes:** titles and descriptions only. No page words touched.
+### [x] 7. Fix titles and descriptions · 19 titles too short, 4 pages share one description
+Done Friday 25 September, live. All 24 pages now have their own title (50 to 60 characters) and description (140 to 160). I checked all 24 on the live site.
 
 ### [x] 8. Fix skipped heading levels on 14 pages
 Done Thursday 24 September, live. Heading tags fixed on 15 pages, with the same words and the same look.
@@ -86,13 +81,8 @@ Your real proof today is since 2001, your prices, Zack V.'s review, your name an
 **Time:** depends on what you have
 **Changes:** none until you send real proof.
 
-### [ ] 18. Darken two grey text colours on the homepage · small text is hard to read
-
-The small grey captions (#9a9995 on white) measure 2.85 to 1, and the grey labels (#73726e on light grey) measure 4.18 to 1. The pass mark is 4.5. This is a design choice, so it's your call.
-
-**Who:** you decide, then me
-**Time:** 5 min
-**Changes:** two colour values. No words touched.
+### [x] 18. Darken two grey text colours · small text was hard to read
+Done Friday 25 September, live. Captions and labels are a little darker and now pass (4.6 and 4.7 to 1). This one change applies to the whole site, and no words changed.
 
 ---
 
@@ -116,10 +106,11 @@ Body sentences changed in the fix pass on Thursday 24 September: 0. The only vis
 
 - **Thursday 24 September, before:** 81 overall. On-page 79, speed 97, AI readiness 66.
 - **Thursday 24 September, after fix pass 1:** 90 overall (90 raw, 2 waived). On-page 90, speed 98, AI readiness 83.
+- **Friday 25 September, after fix pass 2:** 91 overall (90 raw, 2 waived). On-page 92, speed 98, AI readiness 83. Everything left needs you, new writing, or the local DNS change.
 
 ## Undo
 
-To undo every change from this pass: `git revert 4971e2a && git push origin HEAD:main`
+To undo both passes: `git revert --no-edit 5d4e768 5e075ec 4971e2a && git push origin HEAD:main`
 
 ## AI answer baseline · Thursday 24 September 2026
 
