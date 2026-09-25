@@ -9,7 +9,7 @@ export const dynamic = "force-static"; // required for static export (SSG)
 // wreck your conversion count) and the legal pages (no search value).
 export default function sitemap(): MetadataRoute.Sitemap {
   // /reviews stays out until real reviews exist (it is noindexed too).
-  const pages = ["", "/services", "/about", "/contact", "/book-a-growth-audit", "/pricing", "/blog",
+  const pages = ["", "/services", "/about", "/contact", "/book-a-growth-audit", "/free-seo-audit", "/pricing", "/blog",
     ...wpPages.filter((p) => p.path !== "/service/").map((p) => p.path.replace(/\/$/, ""))];
   return pages.map((path) => ({
     url: `${site.url}${path}/`,
