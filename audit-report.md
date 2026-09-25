@@ -33,13 +33,8 @@ Done Thursday 24 September, live. "Pricing" is now in the footer on the home, ab
 ### [x] 11. Tidy the AI files
 Done Thursday 24 September, live. llms.txt now links to 15 pages and leads with Provo. robots.txt now names OAI-SearchBot and ChatGPT-User.
 
-### [ ] 12. Export the Indexing report and check Manual actions · 2 min, only you can do this
-
-Core Web Vitals is recorded: "not enough usage data" on mobile and desktop, which is normal for a site this size. Your live PageSpeed test scored 95 speed, 100 accessibility, 100 best practices and 100 SEO on mobile. The file you sent on 25 September is the Performance report again. Still needed: **Indexing → Pages → Export** (Indexing is in the left menu, then Pages, then the Export button top right). For Manual actions, click **Security & Manual Actions** at the bottom of the left menu to open it, then **Manual actions**, and screenshot it.
-
-**Who:** you, in Search Console
-**Time:** 2 min
-**Changes:** none to the site.
+### [x] 12. Search Console: indexing and manual actions
+Done Friday 25 September. Manual actions: no issues detected. Indexing, as of Sunday 20 September (before the fixes went live): 31 pages indexed and 155 not. The not-indexed ones are almost all old WordPress image pages, old redirects and the retired subdomains, which is expected. Recheck in 2 weeks. Real-visitor speed: not enough visitors yet.
 
 ### [ ] 13. Make the Business Profile match the website · you chose the 866 number and Mon to Fri, 9 to 5
 
@@ -145,7 +140,7 @@ Not run. ChatGPT, Perplexity and Google AI Mode can't be reached from this machi
 
 ## What this audit did NOT measure · Thursday 24 September 2026
 
-- **Skipped:** indexed pages and manual actions. Closes with item 12. Real-visitor speed data: Google says there are not enough visitors yet (checked Friday 25 September).
+- **Measured Friday 25 September:** indexed pages (31, domain-wide, as of 20 September) and manual actions (none). Real-visitor speed data: Google says there are not enough visitors yet (checked Friday 25 September).
 - **Skipped:** Semrush crawl, backlinks and keyword volumes. There are no API units left. Closes by adding units.
 - **Skipped:** competitor numbers (keywords, traffic, links, reviews) for Sebo Marketing, SEO Werkz and Hexxen. I picked these as the top 3 real agencies in live results for "seo company provo utah". Needs Semrush plus a map search.
 - **Skipped:** map pack positions. There's no rank tracking set up. Closes with a Semrush Position Tracking campaign.
