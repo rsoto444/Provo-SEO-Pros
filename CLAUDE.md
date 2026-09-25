@@ -225,3 +225,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - solar.provoseopros.com and msgulfcoast.provoseopros.com: not decided yet.
 - local.provoseopros.com: pointed at Vercel by the owner on Friday 25 September 2026; all 33 old addresses redirect.
 - Blue bands: text is white (owner approved Friday 25 September 2026).
+- **NAP decision (Friday 25 September 2026):** main phone +1 866-402-6849 everywhere; hours Monday to Friday, 9am to 5pm MT; clients never visit the office, so the site says "Provo, Utah". Street address kept ONLY in the contact page "Reach us" box for the A2P brand check (remove after A2P approval if the owner wants). Business Profile phones (385) 481-7087 and (801) 960-2132 and Mon-Sat 8-6 hours to be changed by the owner.

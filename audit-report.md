@@ -41,13 +41,16 @@ Core Web Vitals is recorded: "not enough usage data" on mobile and desktop, whic
 **Time:** 2 min
 **Changes:** none to the site.
 
-### [ ] 13. Make the Business Profile match the website · 3 phone numbers, 2 sets of hours
+### [ ] 13. Make the Business Profile match the website · you chose the 866 number and Mon to Fri, 9 to 5
 
-Graded Friday 25 September from your pastes. The phone and hours conflicts matter most: Google trusts a business less when its details disagree. The website says +1 866-402-6849 and Monday to Friday, 9 to 5. The profile says (385) 481-7087 and (801) 960-2132, and Monday to Saturday, 8 to 6. The contact page also lists (801) 372-2776.
+Your answers on Friday 25 September: the site already uses those, and it now says "Provo, Utah" instead of the street address, except in the contact page "Reach us" box, where it stays for A2P. Now change the profile:
+- **Phone:** Business Profile → Edit profile → Contact → set the primary phone to (866) 402-6849. Remove (801) 960-2132 unless it's a line you want listed.
+- **Hours:** Edit profile → Hours → Monday to Friday, 9:00 AM to 5:00 PM, with Saturday closed. Also update Online service hours to match.
+- **Chat link:** it texts (385) 481-7087. Keep it only if you answer texts on that number.
 
-**Who:** you decide which phone and hours are right, then you fix the profile and I fix the site
-**Time:** 10 min
-**Changes:** phone and hours on whichever side is wrong.
+**Who:** you, in the Business Profile
+**Time:** 5 min
+**Changes:** none to the site. Site side done Friday 25 September.
 
 ### [ ] 21. Fill out the Business Profile · categories 7 of 10, services 15 of 50, areas 7 of 20, products 0 of 20
 

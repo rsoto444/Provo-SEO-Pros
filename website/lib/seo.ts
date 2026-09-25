@@ -50,7 +50,6 @@ export const businessSchema = {
   foundingDate: "2001",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "2650 W 820 N",
     addressLocality: "Provo",
     addressRegion: "UT",
     postalCode: "84601",
