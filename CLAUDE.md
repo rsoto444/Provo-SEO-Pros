@@ -223,3 +223,5 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - Positioning: lead with Provo in titles and descriptions ("Provo SEO company"); national reach stays in the body copy.
 - local.provoseopros.com (old 3local site, 32 city pages): retire with redirects to the matching main-site pages (owner chose A). Redirects are in next.config.mjs; they go live once the subdomain points at Vercel.
 - solar.provoseopros.com and msgulfcoast.provoseopros.com: not decided yet.
+- local.provoseopros.com: pointed at Vercel by the owner on Friday 25 September 2026; all 33 old addresses redirect.
+- Blue bands: text is white (owner approved Friday 25 September 2026).

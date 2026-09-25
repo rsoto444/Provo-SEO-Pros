@@ -49,13 +49,8 @@ Google "Provo SEO Pros" while logged in on a desktop. Then do **Edit profile →
 **Time:** 5 min
 **Changes:** none to the site.
 
-### [ ] 14. Point local.provoseopros.com at the new site · redirects are ready
-
-You chose to retire it (option A). The redirects are built and tested: every /seo/ page goes to your SEO page, and the same for web design, social media and Business Profile. Everything else goes to the homepage. They start working once the subdomain points at Vercel.
-
-**Who:** you, in Vercel then Cloudflare
-**Time:** 5 min
-**Changes:** one domain added in Vercel, one DNS record changed. Steps are in chat.
+### [x] 14. Retire local.provoseopros.com · 32 cloned city pages
+Done Friday 25 September, live. You pointed it at Vercel. All 33 old addresses now redirect: SEO pages go to your SEO page, and web design, social media and Business Profile pages go to their matching pages. Everything else goes to the homepage. Tested all 33.
 
 ### [ ] 15. Build a keyword map · the site doesn't target anything on purpose yet
 
@@ -84,6 +79,12 @@ Your real proof today is since 2001, your prices, Zack V.'s review, your name an
 ### [x] 18. Darken two grey text colours · small text was hard to read
 Done Friday 25 September, live. Captions and labels are a little darker and now pass (4.6 and 4.7 to 1). This one change applies to the whole site, and no words changed.
 
+### [x] 19. White text on the blue bands
+Done Friday 25 September, live. Light blue text on the blue bands is now white. Small pills and contact cards on the band got a slightly darker tint so the white text stands out. All 10 pages tested now score 100 for accessibility. No words changed.
+
+### [x] 20. Unreadable paragraph in the service-page button band
+Done Friday 25 September, live. Found while fixing item 19. The sentence above the button in the navy band on service pages was dark grey on navy, almost invisible, because of a styling bug. It's white now.
+
 ---
 
 ## Needs your approval to remove
@@ -95,8 +96,7 @@ Done Friday 25 September, live. Captions and labels are a little darker and now 
 
 ## Waived
 
-- **Crawler artifact.** Best practices scores 96 on every template. The errors come from this test machine blocking outside scripts (chat, analytics). I'll recheck after the favicon fix. Checked Thursday 24 September.
-- **Owner decision, not yet asked.** Light blue text on the blue bands measures 3.98 to 1 (the pass mark is 4.5). Pure white on the same blue passes at 4.75 to 1. It's your brand blue on a sales band, so it's your call.
+- **Crawler artifact.** Best practices scores 96 on every template. The errors come from this test machine blocking outside scripts (chat, analytics). Rechecked Friday 25 September after the favicon fix: the only errors left are from this test machine and a Vercel analytics file that only exists on Vercel.
 
 ## Copy report
 
@@ -106,11 +106,12 @@ Body sentences changed in the fix pass on Thursday 24 September: 0. The only vis
 
 - **Thursday 24 September, before:** 81 overall. On-page 79, speed 97, AI readiness 66.
 - **Thursday 24 September, after fix pass 1:** 90 overall (90 raw, 2 waived). On-page 90, speed 98, AI readiness 83.
+- **Friday 25 September, after fix pass 3:** 91 overall (91 raw, 1 waived). Blue-band contrast fixed and the old local site retired.
 - **Friday 25 September, after fix pass 2:** 91 overall (90 raw, 2 waived). On-page 92, speed 98, AI readiness 83. Everything left needs you, new writing, or the local DNS change.
 
 ## Undo
 
-To undo both passes: `git revert --no-edit 5d4e768 5e075ec 4971e2a && git push origin HEAD:main`
+To undo all three passes: `git revert --no-edit 069672e 5d4e768 5e075ec 4971e2a && git push origin HEAD:main`
 
 ## AI answer baseline · Thursday 24 September 2026
 
