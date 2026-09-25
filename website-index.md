@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 9
+# Built for the new site · 10
 
 ## Homepage · home
 
@@ -64,6 +64,16 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - /book-a-growth-audit/
  - [file](website/app/book-a-growth-audit/page.tsx)
 **About:** the five-field booking form. Same address as on WordPress.
+**Status:**
+ - published
+ - in the sitemap
+
+## Free Written SEO Audit · campaign landing page
+
+**Route:**
+ - /free-seo-audit/
+ - [file](website/app/free-seo-audit/page.tsx)
+**About:** the free written audit for the review and referral campaign, added Friday 25 September. Separate from the 30-minute Growth Audit call. The form tags leads "free-seo-audit".
 **Status:**
  - published
  - in the sitemap
