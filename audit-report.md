@@ -33,21 +33,44 @@ Done Thursday 24 September, live. "Pricing" is now in the footer on the home, ab
 ### [x] 11. Tidy the AI files
 Done Thursday 24 September, live. llms.txt now links to 15 pages and leads with Provo. robots.txt now names OAI-SearchBot and ChatGPT-User.
 
-### [ ] 12. Export 3 more Search Console reports · 2 min, only you can do this
+### [ ] 12. Export the Indexing report and check Manual actions · 2 min, only you can do this
 
-You sent Performance. Still needed: **Indexing → Pages → Export**, **Experience → Core Web Vitals** (screenshot Mobile and Desktop), and **Security and Manual actions → Manual actions** (screenshot).
+Core Web Vitals is recorded: "not enough usage data" on mobile and desktop, which is normal for a site this size. Your live PageSpeed test scored 95 speed, 100 accessibility, 100 best practices and 100 SEO on mobile. The file you sent on 25 September is the Performance report again. Still needed: **Indexing → Pages → Export** (Indexing is in the left menu, then Pages, then the Export button top right). For Manual actions, click **Security & Manual Actions** at the bottom of the left menu to open it, then **Manual actions**, and screenshot it.
 
 **Who:** you, in Search Console
 **Time:** 2 min
 **Changes:** none to the site.
 
-### [ ] 13. Send your Business Profile pastes, then ask for reviews
+### [ ] 13. Make the Business Profile match the website · 3 phone numbers, 2 sets of hours
 
-Google "Provo SEO Pros" while logged in on a desktop. Then do **Edit profile → About**, **Edit services** and **Edit products**: select all, copy and paste each one to me. You have 1 known review. The Provo agencies ranking above you have been around 15+ years.
+Graded Friday 25 September from your pastes. The phone and hours conflicts matter most: Google trusts a business less when its details disagree. The website says +1 866-402-6849 and Monday to Friday, 9 to 5. The profile says (385) 481-7087 and (801) 960-2132, and Monday to Saturday, 8 to 6. The contact page also lists (801) 372-2776.
+
+**Who:** you decide which phone and hours are right, then you fix the profile and I fix the site
+**Time:** 10 min
+**Changes:** phone and hours on whichever side is wrong.
+
+### [ ] 21. Fill out the Business Profile · categories 7 of 10, services 15 of 50, areas 7 of 20, products 0 of 20
+
+- **Categories (7 of 10):** there's room for 3 more.
+- **Services (15 of 50):** 8 are under Marketing agency. The other 7 sit under Advertising agency, which Google has removed from your profile, so they may drop off.
+- **Service areas (7 of 20):** the US-wide, Canada and out-of-state areas were rejected. Google only accepts areas near your base, so add more Utah County and Salt Lake County cities.
+- **Products (0 of 20):** add one product per service, each with its price and a link to its page.
+- **LinkedIn link:** it points to your admin dashboard. Use https://www.linkedin.com/company/80835124/ instead.
+
+**Who:** you, in the Business Profile
+**Time:** 30 min
+**Changes:** none to the site.
+
+### [ ] 22. Check two claims in the "Organic Lead Generation System" service
+
+This service on the profile says "proven" and "on autopilot". Keep "proven" only if you can back it with results, and "on autopilot" can read as a promise. It also describes Facebook group and LinkedIn DM outreach, which isn't on the website.
 
 **Who:** you, in the Business Profile
 **Time:** 5 min
 **Changes:** none to the site.
+
+### [x] 23. Link your social profiles in the site's business label
+Done Friday 25 September, live. All 7 profiles from your Business Profile are now linked from the hidden business label on every page. That helps Google and AI tools connect them to you.
 
 ### [x] 14. Retire local.provoseopros.com · 32 cloned city pages
 Done Friday 25 September, live. You pointed it at Vercel. All 33 old addresses now redirect: SEO pages go to your SEO page, and web design, social media and Business Profile pages go to their matching pages. Everything else goes to the homepage. Tested all 33.
@@ -96,7 +119,7 @@ Done Friday 25 September, live. Found while fixing item 19. The sentence above t
 
 ## Waived
 
-- **Crawler artifact.** Best practices scores 96 on every template. The errors come from this test machine blocking outside scripts (chat, analytics). Rechecked Friday 25 September after the favicon fix: the only errors left are from this test machine and a Vercel analytics file that only exists on Vercel.
+None. The Best practices waiver is closed: your live PageSpeed test on Friday 25 September scored 100, which confirms those errors only happened on my test machine.
 
 ## Copy report
 
@@ -119,11 +142,11 @@ Not run. ChatGPT, Perplexity and Google AI Mode can't be reached from this machi
 
 ## What this audit did NOT measure · Thursday 24 September 2026
 
-- **Skipped:** indexed pages, Core Web Vitals from real visitors, and manual actions. Only the Performance export came in. Closes with item 12.
+- **Skipped:** indexed pages and manual actions. Closes with item 12. Real-visitor speed data: Google says there are not enough visitors yet (checked Friday 25 September).
 - **Skipped:** Semrush crawl, backlinks and keyword volumes. There are no API units left. Closes by adding units.
 - **Skipped:** competitor numbers (keywords, traffic, links, reviews) for Sebo Marketing, SEO Werkz and Hexxen. I picked these as the top 3 real agencies in live results for "seo company provo utah". Needs Semrush plus a map search.
 - **Skipped:** map pack positions. There's no rank tracking set up. Closes with a Semrush Position Tracking campaign.
 - **Skipped:** the live AI answer test. See above.
-- **Skipped:** Business Profile categories, services, areas and products. Closes with item 13.
+- **Graded Friday 25 September:** Business Profile categories, services, areas and products (items 13, 21 and 22). The review count still comes from you: 1 known.
 - **Inferred:** whether each page matches the length and headings of the top 3 results. I judged this by reading the pages, not by scanning live results.
 - **Sampled:** speed was tested on 3 pages, one per template, with 1 phone run and 1 desktop run each. This is lab data from a local copy of the live build.

@@ -2418,7 +2418,7 @@
   ]
  },
  "local": {
-  "lead": "Business Profile pastes not sent yet, so the profile itself is not graded.",
+  "lead": "Graded 25 September from your Business Profile pastes. Phone and hours disagree with the website.",
   "mapPackSource": "not measured · no rank tracking and no live map search from here",
   "fields": [
    {
@@ -2427,37 +2427,47 @@
    },
    {
     "name": "Address",
-    "before": "2650 W 820 N, Provo, UT 84601"
-   },
-   {
-    "name": "Phone",
-    "before": "+1 866-402-6849 · contact page also lists (801) 372-2776",
+    "before": "hidden on profile (service area) · shown on website",
     "warn": true
    },
    {
+    "name": "Phone",
+    "before": "profile (385) 481-7087 and (801) 960-2132 · website +1 866-402-6849",
+    "flag": true
+   },
+   {
+    "name": "Hours",
+    "before": "profile Mon-Sat 8-6 · website Mon-Fri 9-5",
+    "flag": true
+   },
+   {
     "name": "Categories · mark 10",
-    "before": "not measured · paste needed",
+    "before": "7 of 10 · primary Marketing agency",
     "warn": true
    },
    {
     "name": "Services · mark 50",
-    "before": "not measured · paste needed",
-    "warn": true
+    "before": "15 of 50 · 7 under a removed category",
+    "flag": true
    },
    {
     "name": "Service areas · mark 20",
-    "before": "not measured · paste needed",
+    "before": "7 of 20 · national areas rejected",
     "warn": true
    },
    {
     "name": "Products · mark 20",
-    "before": "not measured · paste needed",
-    "warn": true
+    "before": "0 of 20",
+    "flag": true
    },
    {
     "name": "Reviews",
     "before": "1 known (Zack V.)",
     "flag": true
+   },
+   {
+    "name": "Social profiles",
+    "before": "7 · now linked from the site"
    }
   ],
   "mapPack": [
@@ -2508,7 +2518,7 @@
   ],
   "services": [
    {
-    "name": "SEO & AI Search Optimization",
+    "name": "SEO & AI SEO",
     "keyword": "seo company provo",
     "vol": null,
     "page": "/service/seo-ai-search-optimization/"
@@ -2520,7 +2530,7 @@
     "page": "/service/google-business-profile-management/"
    },
    {
-    "name": "Website Design & Conversion Optimization",
+    "name": "Web Design & CRO",
     "keyword": "customer website design provo",
     "vol": null,
     "page": "/service/website-design-conversion-optimization/"
@@ -2550,7 +2560,7 @@
     "page": "/service/growth-engine/"
    },
    {
-    "name": "Local Visibility Starter",
+    "name": "Organic Lead Generation System",
     "keyword": null,
     "vol": null,
     "page": null
@@ -2644,10 +2654,24 @@
   },
   {
    "layer": "Local",
-   "item": "Business Profile pastes, then reviews",
-   "status": "queued",
+   "item": "Phone and hours differ from the site",
+   "status": "byhand",
+   "who": "you",
+   "changes": "pick the right ones"
+  },
+  {
+   "layer": "Local",
+   "item": "Profile 7/10 categories, 15/50 services, 0/20 products",
+   "status": "byhand",
    "who": "you",
    "changes": "Business Profile"
+  },
+  {
+   "layer": "Local",
+   "item": "Social profiles not linked",
+   "status": "done",
+   "who": "me",
+   "changes": "8 links in schema"
   },
   {
    "layer": "Doorway pages",
@@ -2700,24 +2724,18 @@
   }
  ],
  "notMeasured": [
-  "Search Console Pages, Core Web Vitals and Manual actions: only Performance was exported, 2 minutes to close",
+  "Search Console Pages and Manual actions: not exported yet, 2 minutes to close",
+  "Real-visitor speed: Google has not enough visitors yet; live PageSpeed mobile 95/100/100/100",
   "Semrush site crawl, backlinks and keyword volumes: no API units left, add units to close",
   "Competitor keywords, traffic, links and reviews: needs Semrush and a map search",
   "Map pack positions: no rank tracking, no live map search from this machine",
   "Live AI test (ChatGPT, Perplexity, Google AI Mode): not reachable from here, run by hand",
-  "Business Profile categories, services, areas, products: pastes not sent",
   "Top-3 length and headings match: judged by reading, no live results scan",
   "Speed: lab data, 1 mobile and 1 desktop run per template, local production build"
  ],
  "costs": [],
  "rawAfter": 91,
- "waived": [
-  {
-   "type": "crawler artifact",
-   "item": "Best practices 96 on all three templates",
-   "reason": "favicon fixed; the errors left come from this test machine blocking outside scripts and the Vercel analytics file that only exists on Vercel"
-  }
- ],
+ "waived": [],
  "other": [
   {
    "group": "Index hygiene",
