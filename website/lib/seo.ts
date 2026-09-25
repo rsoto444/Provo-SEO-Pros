@@ -71,7 +71,18 @@ export const businessSchema = {
   ],
   founder: { "@id": FOUNDER_ID },
   hasMap: GBP_URL,
-  sameAs: [GBP_URL],
+  // Profiles listed on the owner's Business Profile (pasted 25 September 2026).
+  // LinkedIn uses the public company address, not the admin dashboard link.
+  sameAs: [
+    GBP_URL,
+    "https://www.facebook.com/Provoseopros/",
+    "https://www.instagram.com/provoseopros/",
+    "https://www.linkedin.com/company/80835124/",
+    "https://www.youtube.com/@provoseopros9657",
+    "https://x.com/RichSoto443",
+    "https://www.tiktok.com/@richsoto5952",
+    "https://www.pinterest.com/rsoto443/",
+  ],
 };
 
 export const founderSchema = {
