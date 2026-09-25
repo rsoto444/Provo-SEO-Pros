@@ -79,8 +79,8 @@
 .wpx-hero { background: var(--surface-brand); color: var(--white); padding: 72px 0 80px; }
 .wpx-hero-grid { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 48px; align-items: center; }
 .wpx .wpx-hero h1 { font: var(--type-display); letter-spacing: var(--track-display); color: var(--white); margin: 0 0 18px; }
-.wpx .wpx-hero-main p { color: var(--blue-100); font: var(--type-body-lg); margin: 0 0 14px; }
-.wpx .wpx-hero-main p.wp-kicker { color: var(--white); opacity: .85; font: var(--type-label); margin: 0 0 12px; }
+.wpx .wpx-hero-main p { color: var(--white); font: var(--type-body-lg); margin: 0 0 14px; }
+.wpx .wpx-hero-main p.wp-kicker { color: var(--white); font: var(--type-label); margin: 0 0 12px; }
 .wpx .wpx-hero-main p.wp-note { color: var(--white); font-weight: 700; }
 .wpx .wpx-hero-main .wpx-actions a.wp-btn { background: var(--white); color: var(--text-strong) !important; }
 .wpx .wpx-hero-main .wpx-actions a.wp-btn + a.wp-btn { background: transparent; color: var(--white) !important; border: 1.5px solid rgba(255,255,255,.7); }
@@ -107,8 +107,8 @@
 .wpx-cards-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .wpx-cta { background: var(--blue-900); color: var(--white); text-align: left; }
 .wpx .wpx-cta h2, .wpx-cta h2 { color: var(--white); font: var(--type-h2); margin: 0 0 12px; }
-.wpx .wpx-cta .wpx-head > p:not(.wp-kicker), .wpx-cta .wpx-head > p:not(.wp-kicker) { color: var(--blue-100); font: var(--type-body-lg); margin: 0 0 8px; }
-.wpx-cta p.wp-kicker { color: var(--blue-300) !important; }
+.wpx .wpx-band.wpx-cta .wpx-head > p:not(.wp-kicker):not(.wp-step), .wpx-cta .wpx-head > p:not(.wp-kicker) { color: var(--white); font: var(--type-body-lg); margin: 0 0 8px; }
+.wpx-cta p.wp-kicker { color: var(--white) !important; }
 .wpx-cta a.wp-btn { background: var(--white); color: var(--text-strong) !important; }
 .wpx-cta a.wp-btn + a.wp-btn { background: transparent; color: var(--white) !important; border: 1.5px solid rgba(255,255,255,.7); }
 .wpx-faq { max-width: 820px; margin-top: 28px; display: grid; gap: 10px; }
