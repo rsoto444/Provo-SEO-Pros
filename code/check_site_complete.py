@@ -127,8 +127,17 @@ def map_expected_routes():
     text = text.split("# Written", 1)[1]
     text = text.split("## Keywords saved for later", 1)[0]
     expected = []
-    for m in re.finditer(r"^## \d+\. (Service page|Blog post): (.+)$", text, re.M):
+    for m in re.finditer(r"^## \d+\. ([^:\n]+): (.+)$", text, re.M):
         kind, title = m.group(1), m.group(2).strip()
+        # A written block can name its real address ("**Page:** /service/x/") -
+        # pages carried over from an old site keep their old URLs.
+        block = text[m.end():m.end() + 400].split("\n## ", 1)[0]
+        page = re.search(r"^\*\*Page:\*\* (/\S*)", block, re.M)
+        if page:
+            expected.append((title, page.group(1)))
+            continue
+        if kind not in ("Service page", "Blog post"):
+            continue
         def slugify(x):
             return re.sub(r"[^a-z0-9]+", "-", x.lower()).strip("-")
         # "Local SEO services in Austin" -> city spoke under its hub
@@ -260,7 +269,7 @@ def main():
     _, services_html = fetch("/services")
     for route in routes_on_disk():
         if route.startswith("/services/") and route.count("/") == 2:
-            if f'href="{route}"' not in services_html:
+            if f'href="{route}"' not in services_html and f'href="{route}/"' not in services_html:
                 failures.append(f"orphan: {route} is not linked from /services")
 
     if failures:

@@ -365,6 +365,8 @@ Pages already on your site, with the keyword each one owns. `/seo-optimization` 
 
 ## 1. Service page: Local SEO services
 
+**Page:** /services/local-seo/
+
 **Standalone**
 
 **Google check:** passed
@@ -383,6 +385,8 @@ Pages already on your site, with the keyword each one owns. `/seo-optimization` 
 ---
 
 ## 20. Homepage: Provo SEO company
+
+**Page:** /
 
 **Standalone**
 
@@ -403,6 +407,8 @@ Pages already on your site, with the keyword each one owns. `/seo-optimization` 
 ---
 
 ## 21. Service page: SEO & AI Search Optimization
+
+**Page:** /service/seo-ai-search-optimization/
 
 **Standalone**
 
@@ -425,6 +431,8 @@ Also ranks for: utah seo companies, utah local seo
 
 ## 22. Service page: AI SEO
 
+**Page:** /service/ai-seo/
+
 **Standalone**
 
 **Google check:** passed
@@ -441,6 +449,8 @@ Also ranks for: utah seo companies, utah local seo
 ---
 
 ## 23. Service page: Google Business Profile management
+
+**Page:** /service/google-business-profile-management/
 
 **Standalone**
 
@@ -460,6 +470,8 @@ Also ranks for: utah seo companies, utah local seo
 ---
 
 ## 24. Service page: Website design and conversion
+
+**Page:** /service/website-design-conversion-optimization/
 
 **Standalone**
 
@@ -481,6 +493,8 @@ Local first: Google shows a Provo map pack for the primary. The national terms a
 
 ## 25. Service page: PPC advertising management
 
+**Page:** /service/ppc-advertising-management/
+
 **Standalone**
 
 **Google check:** mixed, money page wins
@@ -498,6 +512,8 @@ Narrow family: 3 is everything with real searches.
 ---
 
 ## 26. Service page: Social media management
+
+**Page:** /service/social-media-management/
 
 **Standalone**
 
@@ -517,6 +533,8 @@ Narrow family: 3 is everything with real searches.
 
 ## 27. Service page: Technical SEO and site speed
 
+**Page:** /service/technical-optimization-site-speed-utah/
+
 **Standalone**
 
 **Google check:** mixed, money page wins
@@ -533,6 +551,8 @@ Narrow family: 3 is everything with real searches.
 ---
 
 ## 28. Service page: Missed call text back for med spas
+
+**Page:** /service/missed-call-text-back-med-spas/
 
 **Standalone**
 
@@ -552,6 +572,8 @@ Narrow family: 3 is everything with real searches.
 
 ## 29. Service page: Growth Engine System
 
+**Page:** /service/growth-engine/
+
 **Standalone**
 
 **Google check:** passed
@@ -569,7 +591,9 @@ Harder than the rest, but it's your flagship, so the page exists to convert and 
 
 ---
 
-## 30. Services page: all services
+## 30. Services page: Provo SEO and local marketing services
+
+**Page:** /services/
 
 **Standalone**
 
@@ -587,6 +611,8 @@ Narrow family: this is the index page. It exists to route visitors to the servic
 
 ## 31. Standard page: Pricing
 
+**Page:** /pricing/
+
 **Standalone**
 
 **Google check:** passed
@@ -602,6 +628,8 @@ Narrow family: pricing shoppers search "packages". The cost questions belong to 
 ---
 
 ## 32. Service page: Free written SEO audit
+
+**Page:** /free-seo-audit/
 
 **Standalone**
 
@@ -621,6 +649,8 @@ Narrow family: "free seo audit" is bigger, but Google shows free tools for it (s
 
 ## 33. Blog post: How CRM automation helps local businesses follow up faster
 
+**Page:** /crm-automation-follow-up/
+
 **Standalone**
 
 **Google check:** passed
@@ -637,6 +667,8 @@ Google treats "crm automation" as a what-is question, so this post owns it rathe
 ---
 
 ## 34. Blog post: Why your website gets traffic but not leads
+
+**Page:** /website-traffic-but-no-leads/
 
 **Standalone**
 
