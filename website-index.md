@@ -93,9 +93,10 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Route:**
  - /services/roofing-seo/
  - [file](website/app/services/roofing-seo/page.tsx)
-**About:** Local Visibility Starter for roofers, keyword map row 2 (roofing seo). Built Saturday 26 September from the Local SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. No roofing clients yet, so no roofing results are claimed.
+**About:** Local Visibility Starter for roofers, keyword map row 2 (roofing seo). Built Saturday 26 September from the Local SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. Links to the free written audit next to the price. No roofing clients yet, so no roofing results are claimed.
 **Status:**
- - draft, waiting for your yes to publish
+ - published Saturday 26 September
+ - in the sitemap
 
 ## Thank you · thank-you page
 
