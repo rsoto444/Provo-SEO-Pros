@@ -81,7 +81,7 @@ Then click **Save**.
 Edit profile → **Services** → under your primary category → Add custom service. Add each of these, with its description:
 
 **SEO & AI Search Optimization**
-Clearer service pages, stronger local relevance and a technically sound site, so Google, Maps and AI search can find you. From $2,500.
+Clearer service pages, stronger local relevance and a technically sound site, so Google, Maps and AI search can find you. From $2,500/mo.
 
 **AI SEO Services**
 Help AI search tools understand, summarize and recommend your business, with clear service pages, structured data and answer-ready FAQs.
@@ -130,7 +130,7 @@ Edit profile → **Products** → Add product. Each product needs all six: name,
 
 Start with these 9. The price and link for each:
 - **Growth Engine System**: from $2,500 · https://provoseopros.com/service/growth-engine/
-- **SEO & AI Search Optimization**: from $2,500 · https://provoseopros.com/service/seo-ai-search-optimization/
+- **SEO & AI Search Optimization**: from $2,500/mo · https://provoseopros.com/service/seo-ai-search-optimization/
 - **Google Business Profile Management**: from $900/mo · https://provoseopros.com/service/google-business-profile-management/
 - **Website Design & Conversion Optimization**: from $3,500 · https://provoseopros.com/service/website-design-conversion-optimization/
 - **CRM Automation & Lead Follow-Up**: from $1,500 setup · https://provoseopros.com/service/crm-automation/
