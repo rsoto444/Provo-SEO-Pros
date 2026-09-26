@@ -1,33 +1,11 @@
 # Your keyword map
 
-34 pages: 18 to build, in order, and 16 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 17 to build, in order, and 17 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 18
-
-## 2. Service page: Roofing SEO
-
-**Standalone**
-
-**Google check:** passed
-
-**Primary keyword**
-- roofing seo · 2,400 searches a month · Easy to rank for (4 out of 100)
-
-**Secondary keywords**
-- roofing seo company · 880 a month · Easy (18)
-- roofing seo services · 720 a month · Easy (13)
-- roofing marketing agency · 590 a month · Easy (4)
-- roofing marketing · 590 a month · Easy (19)
-- roofing seo agency · 320 a month · Easy (1)
-
-Also ranks for: roofer seo (same search, 2,400 a month)
-
-**Why second:** the easiest big buyer term on the whole map, and roofers are already in your LinkedIn campaign, so every audit you send has a page to point to.
-
----
+# To build · 17
 
 ## 3. Service page: HVAC SEO
 
@@ -359,7 +337,7 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 16
+# Written · 17
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
 
@@ -381,6 +359,30 @@ Pages already on your site, with the keyword each one owns. `/seo-optimization` 
 - local seo packages · 480 a month · Easy (11)
 
 **Why first:** the biggest buyer search on the map that you can realistically win, and it's exactly what Local Visibility Starter sells, which has no page today. "local seo services" is bigger but harder, so it goes in the copy, not the title.
+
+---
+
+## 2. Service page: Roofing SEO
+
+**Page:** /services/roofing-seo/
+
+**Standalone**
+
+**Google check:** passed
+
+**Primary keyword**
+- roofing seo · 2,400 searches a month · Easy to rank for (4 out of 100)
+
+**Secondary keywords**
+- roofing seo company · 880 a month · Easy (18)
+- roofing seo services · 720 a month · Easy (13)
+- roofing marketing agency · 590 a month · Easy (4)
+- roofing marketing · 590 a month · Easy (19)
+- roofing seo agency · 320 a month · Easy (1)
+
+Also ranks for: roofer seo (same search, 2,400 a month)
+
+**Why second:** the easiest big buyer term on the whole map, and roofers are already in your LinkedIn campaign, so every audit you send has a page to point to.
 
 ---
 

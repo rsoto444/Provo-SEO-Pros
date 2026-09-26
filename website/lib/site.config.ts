@@ -48,6 +48,7 @@ export const site = {
     { name: "Technical SEO & Site Speed Optimization", href: "/service/technical-optimization-site-speed-utah/" },
     { name: "Missed Call Text Back for Med Spas", href: "/service/missed-call-text-back-med-spas/" },
     { name: "Local Visibility Blueprint™", href: "/local-visibility-blueprint/" },
+    { name: "Roofing SEO", href: "/services/roofing-seo/" },
   ],
 
   sitelinks: [

@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 11
+# Built for the new site · 12
 
 ## Homepage · home
 
@@ -87,6 +87,15 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Status:**
  - published Saturday 26 September
  - in the sitemap
+
+## Roofing SEO · service page
+
+**Route:**
+ - /services/roofing-seo/
+ - [file](website/app/services/roofing-seo/page.tsx)
+**About:** Local Visibility Starter for roofers, keyword map row 2 (roofing seo). Built Saturday 26 September from the Local SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. No roofing clients yet, so no roofing results are claimed.
+**Status:**
+ - draft, waiting for your yes to publish
 
 ## Thank you · thank-you page
 

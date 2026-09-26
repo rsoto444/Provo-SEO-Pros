@@ -36,3 +36,11 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `reviewing-search-results-laptop-2.jpeg` | reviewing search results laptop | Pexels | Lukas Blazek | Pexels licence - free commercial use, no attribution required |
 | `reviewing-search-results-laptop-3.png` | reviewing search results laptop | Pexels | Firmbee.com | Pexels licence - free commercial use, no attribution required |
 | `reviewing-search-results-laptop-4.jpeg` | reviewing search results laptop | Pexels | cottonbro studio | Pexels licence - free commercial use, no attribution required |
+| `roofer-working-on-roof-1.jpeg` | roofer working on roof | Pexels | Krista Glīzdeniece | Pexels licence - free commercial use, no attribution required |
+| `roofer-working-on-roof-2.jpeg` | roofer working on roof | Pexels | Krista Glīzdeniece | Pexels licence - free commercial use, no attribution required |
+| `roofer-working-on-roof-3.jpeg` | roofer working on roof | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
+| `roofer-working-on-roof-4.jpeg` | roofer working on roof | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
+| `residential-roof-shingles-1.jpeg` | residential roof shingles | Pexels | morgan | Pexels licence - free commercial use, no attribution required |
+| `residential-roof-shingles-2.jpeg` | residential roof shingles | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
+| `residential-roof-shingles-3.jpeg` | residential roof shingles | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
+| `residential-roof-shingles-4.jpeg` | residential roof shingles | Pexels | Jan van der Wolf | Pexels licence - free commercial use, no attribution required |
