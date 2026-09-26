@@ -233,3 +233,8 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 - Trade SEO pages (roofing, HVAC, plumbing, contractor): Local Visibility Starter, from $900/mo + $500 setup. No trade clients yet, no exclusive territories.
 - Web design for contractors: Website Design & Conversion Optimization, from $3,500 paid up front, build takes 1 to 4 weeks, client owns the domain, we host it. Maintenance fee: owner said "industry standard", set at from $99/mo (practitioner convention, owner can change). No portfolio yet.
 - **Minimum term (owner, Saturday 26 September 2026):** all ongoing monthly plans have a 6-month minimum. Guided Implementation page changed from three-month to 6-month on the owner's instruction (Saturday 26 September 2026).
+
+### Calls and form follow-up (Saturday 26 September 2026)
+- (866) 402-6849 is answered 24/7 by the Voice AI agent "Athena" (GoHighLevel, Provo SEO Pros sub-account). Owner approved her greeting and instructions; test call passed. She books into Rich Soto Calendar, never transfers, takes messages otherwise. (385) 481-7087 removed from her; after-call workflow link removed.
+- Website form leads: text alert to 801-372-2776 plus an email alert; auto-reply email from contact@provoseopros.com to everyone; auto-reply text only when a phone number was given and the non-marketing SMS consent box was ticked (A2P approved). Copy approved by owner.
+- Pipelines: "Website Leads" (New, Contacted, Growth Audit booked, Won, Not now) for site forms; free audit form goes to "Free Audit Campaign" at "Said yes". "SGS Console Pipeline" belongs to Soto Growth Systems, never used for Provo SEO Pros leads.
