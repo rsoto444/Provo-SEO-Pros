@@ -232,4 +232,4 @@ This is the free version of the SEO Blueprint, frozen at the video. The living v
 ### Service page offers (Saturday 26 September 2026)
 - Trade SEO pages (roofing, HVAC, plumbing, contractor): Local Visibility Starter, from $900/mo + $500 setup. No trade clients yet, no exclusive territories.
 - Web design for contractors: Website Design & Conversion Optimization, from $3,500 paid up front, build takes 1 to 4 weeks, client owns the domain, we host it. Maintenance fee: owner said "industry standard", set at from $99/mo (practitioner convention, owner can change). No portfolio yet.
-- **Minimum term (owner, Saturday 26 September 2026):** all ongoing monthly plans have a 6-month minimum. The carried-over Guided Implementation page still says three-month; waiting on the owner.
+- **Minimum term (owner, Saturday 26 September 2026):** all ongoing monthly plans have a 6-month minimum. Guided Implementation page changed from three-month to 6-month on the owner's instruction (Saturday 26 September 2026).

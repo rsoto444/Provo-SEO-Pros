@@ -145,7 +145,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/lib/blog-posts.ts)
 **About:** Keyword map row 7 (seo cost). Written Saturday 26 September from Rich's answers: the five-plan price table, the $199 plan pattern, the "not worth it yet" advice and the author box. Google's guidance quoted with links. Rich confirmed Saturday 26 September: SEO & AI Search Optimization is monthly, and ongoing monthly plans have a 6-month minimum.
 **Status:**
- - draft, hidden from Google, the sitemap and the blog list until you say publish
+ - published Saturday 26 September
+ - in the sitemap and the blog list
 
 ## Thank you · thank-you page
 
