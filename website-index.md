@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 16
+# Built for the new site · 17
 
 ## Homepage · home
 
@@ -137,6 +137,15 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Status:**
  - published Saturday 26 September (owner approved at 8 out of 10; add a real site to raise it)
  - in the sitemap
+
+## How much does SEO cost · blog post
+
+**Route:**
+ - /how-much-does-seo-cost/
+ - [file](website/lib/blog-posts.ts)
+**About:** Keyword map row 7 (seo cost). Written Saturday 26 September from Rich's answers: the five-plan price table, the $199 plan pattern, the "not worth it yet" advice and the author box. Google's guidance quoted with links. Two open items marked [RICH: ...] on the page about the 6-month minimum.
+**Status:**
+ - draft, hidden from Google, the sitemap and the blog list until you say publish
 
 ## Thank you · thank-you page
 

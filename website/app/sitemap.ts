@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { site } from "@/lib/site.config";
 import { wpPages } from "@/lib/wp-pages";
+import { blogPosts } from "@/lib/blog-posts";
 
 export const dynamic = "force-static"; // required for static export (SSG)
 
@@ -10,7 +11,8 @@ export const dynamic = "force-static"; // required for static export (SSG)
 export default function sitemap(): MetadataRoute.Sitemap {
   // /reviews stays out until real reviews exist (it is noindexed too).
   const pages = ["", "/services", "/about", "/contact", "/book-a-growth-audit", "/free-seo-audit", "/services/local-seo", "/services/roofing-seo", "/services/hvac-seo", "/services/plumbing-seo", "/services/contractor-seo", "/services/web-design-for-contractors", "/pricing", "/blog",
-    ...wpPages.filter((p) => p.path !== "/service/").map((p) => p.path.replace(/\/$/, ""))];
+    ...wpPages.filter((p) => p.path !== "/service/").map((p) => p.path.replace(/\/$/, "")),
+    ...blogPosts.filter((p) => !p.draft).map((p) => p.path.replace(/\/$/, ""))];
   return pages.map((path) => ({
     url: `${site.url}${path}/`,
     lastModified: new Date(),

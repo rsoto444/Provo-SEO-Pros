@@ -1,34 +1,11 @@
 # Your keyword map
 
-34 pages: 13 to build, in order, and 21 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 12 to build, in order, and 22 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 13
-
-## 7. Blog post: How much does SEO cost
-
-**Standalone**
-
-**Google check:** passed
-
-**Primary keyword**
-- seo cost · 2,400 searches a month · Easy to rank for (25 out of 100)
-
-**Secondary keywords**
-- seo services cost · 880 a month · Easy (14)
-- seo package cost · 480 a month · Easy (5)
-- average cost of seo · 390 a month · Easy (23)
-- seo cost calculator · 260 a month · Easy (7)
-- local seo pricing · 260 a month · Easy (11)
-- is seo worth it for small business · 110 a month · Easy (22)
-
-Also ranks for: cost of seo, seo pricing, how much does seo cost
-
-**Why first of the blogs:** people pricing SEO are close to buying, and you already publish your prices, which most agencies won't.
-
----
+# To build · 12
 
 ## 8. Blog post: SEO for roofers
 
@@ -252,7 +229,7 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 21
+# Written · 22
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
 
@@ -391,6 +368,31 @@ Also ranks for: contractor website design (1,000 a month)
 Narrow family: these three trades are every version with buyer searches.
 
 **Why here:** the same contractors often need the website fixed before SEO can work, and this term is easy and bigger than most local web design searches.
+
+---
+
+## 7. Blog post: How much does SEO cost
+
+**Page:** /how-much-does-seo-cost/
+
+**Standalone**
+
+**Google check:** passed
+
+**Primary keyword**
+- seo cost · 2,400 searches a month · Easy to rank for (25 out of 100)
+
+**Secondary keywords**
+- seo services cost · 880 a month · Easy (14)
+- seo package cost · 480 a month · Easy (5)
+- average cost of seo · 390 a month · Easy (23)
+- seo cost calculator · 260 a month · Easy (7)
+- local seo pricing · 260 a month · Easy (11)
+- is seo worth it for small business · 110 a month · Easy (22)
+
+Also ranks for: cost of seo, seo pricing, how much does seo cost
+
+**Why first of the blogs:** people pricing SEO are close to buying, and you already publish your prices, which most agencies won't.
 
 ---
 

@@ -7,6 +7,7 @@
 import type { CSSProperties } from "react";
 import SiteNav from "../_components/SiteNav";
 import { wpPages } from "@/lib/wp-pages";
+import { blogPosts } from "@/lib/blog-posts";
 import { pageMeta, breadcrumbSchema } from "@/lib/seo";
 import JsonLd from "../_components/JsonLd";
 
@@ -19,7 +20,8 @@ const body: CSSProperties = { font: "var(--type-body-lg)", color: "var(--text-bo
 
 // The 4 posts carried over from WordPress live at their original root-level
 // addresses (e.g. /seo-vs-ai-seo/), so they link from here without the /blog/ prefix.
-const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: string }> = wpPages
+// New posts from blog-posts.ts join them once they are no longer drafts.
+const POSTS: ReadonlyArray<{ slug: string; title: string; hook: string; date: string }> = [...wpPages, ...blogPosts.filter((p) => !p.draft)]
   .filter((p) => p.kind === "post")
   .sort((a, b) => b.date.localeCompare(a.date))
   .map((p) => ({ slug: p.path.replace(/^\/|\/$/g, ""), title: p.title, hook: p.description, date: p.date }));

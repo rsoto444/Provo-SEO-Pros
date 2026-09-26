@@ -92,3 +92,19 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `website-wireframe-sketch-4.jpeg` | website wireframe sketch | Pexels | picjumbo.com | Pexels licence - free commercial use, no attribution required |
 | `website-wireframe-sketch-5.jpeg` | website wireframe sketch | Pexels | Pixabay | Pexels licence - free commercial use, no attribution required |
 | `website-wireframe-sketch-6.jpeg` | website wireframe sketch | Pexels | Akshar Dave🌻 | Pexels licence - free commercial use, no attribution required |
+| `calculator-receipts-desk-1.jpeg` | calculator receipts desk | Pexels | https://kaboompics.com/ | Pexels licence - free commercial use, no attribution required |
+| `calculator-receipts-desk-2.jpeg` | calculator receipts desk | Pexels | https://kaboompics.com/ | Pexels licence - free commercial use, no attribution required |
+| `calculator-receipts-desk-3.jpeg` | calculator receipts desk | Pexels | https://kaboompics.com/ | Pexels licence - free commercial use, no attribution required |
+| `calculator-receipts-desk-4.jpeg` | calculator receipts desk | Pexels | https://kaboompics.com/ | Pexels licence - free commercial use, no attribution required |
+| `invoice-paperwork-small-business-1.jpeg` | invoice paperwork small business | Pexels | https://kaboompics.com/ | Pexels licence - free commercial use, no attribution required |
+| `invoice-paperwork-small-business-2.jpeg` | invoice paperwork small business | Pexels | Niepoddawajsie.pl Luk | Pexels licence - free commercial use, no attribution required |
+| `invoice-paperwork-small-business-3.jpeg` | invoice paperwork small business | Pexels | Kindel Media | Pexels licence - free commercial use, no attribution required |
+| `invoice-paperwork-small-business-4.jpeg` | invoice paperwork small business | Pexels | Kindel Media | Pexels licence - free commercial use, no attribution required |
+| `phone-on-desk-notebook-1.jpeg` | phone on desk notebook | Pexels | Porapak Apichodilok | Pexels licence - free commercial use, no attribution required |
+| `phone-on-desk-notebook-2.jpeg` | phone on desk notebook | Pexels | Nic Wood | Pexels licence - free commercial use, no attribution required |
+| `phone-on-desk-notebook-3.jpeg` | phone on desk notebook | Pexels | Moe Magners | Pexels licence - free commercial use, no attribution required |
+| `phone-on-desk-notebook-4.jpeg` | phone on desk notebook | Pexels | Jakub Zerdzicki | Pexels licence - free commercial use, no attribution required |
+| `tools-on-workbench-1.jpeg` | tools on workbench | Pexels | Tima Miroshnichenko | Pexels licence - free commercial use, no attribution required |
+| `tools-on-workbench-2.jpeg` | tools on workbench | Pexels | Karen Laårk Boshoff | Pexels licence - free commercial use, no attribution required |
+| `tools-on-workbench-3.jpeg` | tools on workbench | Pexels | FFD Restorations | Pexels licence - free commercial use, no attribution required |
+| `tools-on-workbench-4.jpeg` | tools on workbench | Pexels | Csongor Kemény | Pexels licence - free commercial use, no attribution required |
