@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 14
+# Built for the new site · 15
 
 ## Homepage · home
 
@@ -117,6 +117,15 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Status:**
  - published Saturday 26 September
  - in the sitemap
+
+## Contractor SEO · service page
+
+**Route:**
+ - /services/contractor-seo/
+ - [file](website/app/services/contractor-seo/page.tsx)
+**About:** Local Visibility Starter for home service contractors in general, keyword map row 5 (contractor seo). The umbrella page: it links to the roofing, HVAC and plumbing pages. Built Saturday 26 September from the Plumbing SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. No contractor results are claimed.
+**Status:**
+ - draft, waiting for your yes to publish
 
 ## Thank you · thank-you page
 

@@ -68,3 +68,12 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `plumber-under-kitchen-sink-4.jpeg` | plumber under kitchen sink | Pexels | Melike  B | Pexels licence - free commercial use, no attribution required |
 | `plumber-under-kitchen-sink-5.jpeg` | plumber under kitchen sink | Pexels | Jaime Joel Vargas Huacre | Pexels licence - free commercial use, no attribution required |
 | `plumber-under-kitchen-sink-6.jpeg` | plumber under kitchen sink | Pexels | Alexa Popovich | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-1.jpeg` | home renovation contractor | Pexels | Valentin Ivantsov | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-2.jpeg` | home renovation contractor | Pexels | Tima Miroshnichenko | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-3.jpeg` | home renovation contractor | Pexels | Tima Miroshnichenko | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-4.jpeg` | home renovation contractor | Pexels | Francesco Ungaro | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-5.jpeg` | home renovation contractor | Pexels | Tima Miroshnichenko | Pexels licence - free commercial use, no attribution required |
+| `home-renovation-contractor-6.jpeg` | home renovation contractor | Pexels | Tima Miroshnichenko | Pexels licence - free commercial use, no attribution required |
+| `electrician-working-house-1.jpeg` | electrician working house | Pexels | Audy of  Course | Pexels licence - free commercial use, no attribution required |
+| `electrician-working-house-2.jpeg` | electrician working house | Pexels | Kathleen Austin Kuhn | Pexels licence - free commercial use, no attribution required |
+| `electrician-working-house-3.jpeg` | electrician working house | Pexels | MART  PRODUCTION | Pexels licence - free commercial use, no attribution required |

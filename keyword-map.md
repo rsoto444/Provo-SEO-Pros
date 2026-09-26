@@ -1,32 +1,11 @@
 # Your keyword map
 
-34 pages: 15 to build, in order, and 19 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 14 to build, in order, and 20 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 15
-
-## 5. Service page: Contractor SEO
-
-**Standalone**
-
-**Google check:** mixed, money page wins
-
-**Primary keyword**
-- contractor seo · 880 searches a month · Easy to rank for (0 out of 100)
-
-**Secondary keywords**
-- home service marketing · 720 a month · Easy (19)
-- contractor marketing agency · 590 a month · Easy (18)
-- marketing for contractors · 260 a month · Easy (5)
-- seo agency for contractors · 140 a month · Easy (5)
-
-Also ranks for: contractor seo services, seo services for contractors (260 a month each)
-
-**Why here:** the umbrella page the three trade pages sit beside, for every contractor type you don't have a page for yet.
-
----
+# To build · 14
 
 ## 6. Service page: Web design for contractors
 
@@ -295,7 +274,7 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 19
+# Written · 20
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
 
@@ -387,6 +366,29 @@ Also ranks for: roofer seo (same search, 2,400 a month)
 Also ranks for: plumbing seo, seo for plumbers (590 a month each)
 
 **Why here:** third trade in your campaign. "plumbing marketing agency" is a little bigger but broader than SEO, so it sits in the copy.
+
+---
+
+## 5. Service page: Contractor SEO
+
+**Page:** /services/contractor-seo/
+
+**Standalone**
+
+**Google check:** mixed, money page wins
+
+**Primary keyword**
+- contractor seo · 880 searches a month · Easy to rank for (0 out of 100)
+
+**Secondary keywords**
+- home service marketing · 720 a month · Easy (19)
+- contractor marketing agency · 590 a month · Easy (18)
+- marketing for contractors · 260 a month · Easy (5)
+- seo agency for contractors · 140 a month · Easy (5)
+
+Also ranks for: contractor seo services, seo services for contractors (260 a month each)
+
+**Why here:** the umbrella page the three trade pages sit beside, for every contractor type you don't have a page for yet.
 
 ---
 

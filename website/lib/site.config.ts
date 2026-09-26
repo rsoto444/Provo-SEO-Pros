@@ -51,6 +51,7 @@ export const site = {
     { name: "Roofing SEO", href: "/services/roofing-seo/" },
     { name: "HVAC SEO", href: "/services/hvac-seo/" },
     { name: "Plumbing SEO", href: "/services/plumbing-seo/" },
+    { name: "Contractor SEO", href: "/services/contractor-seo/" },
   ],
 
   sitelinks: [
