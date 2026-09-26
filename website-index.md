@@ -125,7 +125,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/contractor-seo/page.tsx)
 **About:** Local Visibility Starter for home service contractors in general, keyword map row 5 (contractor seo). The umbrella page: it links to the roofing, HVAC and plumbing pages. Built Saturday 26 September from the Plumbing SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. No contractor results are claimed.
 **Status:**
- - draft, waiting for your yes to publish
+ - published Saturday 26 September
+ - in the sitemap
 
 ## Thank you · thank-you page
 
