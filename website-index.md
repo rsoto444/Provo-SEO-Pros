@@ -85,8 +85,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/local-seo/page.tsx)
 **About:** Local Visibility Starter, keyword map row 1 (local seo agency). Built Saturday 26 September from the service template. Proof on the page: since 2001, the $900/mo price, Zack V.'s review, Rich by name, no ranking guarantees. No client results yet.
 **Status:**
- - draft, waiting on your yes
- - not in the sitemap until it's published
+ - published Saturday 26 September
+ - in the sitemap
 
 ## Thank you · thank-you page
 
