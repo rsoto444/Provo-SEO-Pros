@@ -105,7 +105,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/hvac-seo/page.tsx)
 **About:** Local Visibility Starter for heating and cooling companies, keyword map row 3 (hvac seo). Built Saturday 26 September from the Roofing SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. Links to the free written audit next to the price. No HVAC clients yet, so no HVAC results are claimed.
 **Status:**
- - draft, waiting for your yes to publish
+ - published Saturday 26 September
+ - in the sitemap
 
 ## Thank you · thank-you page
 
