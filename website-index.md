@@ -135,7 +135,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/web-design-for-contractors/page.tsx)
 **About:** Website Design & Conversion Optimization sold to contractors, keyword map row 6 (web design for contractors). Built Saturday 26 September from the Contractor SEO page. On the page: from $3,500 paid up front, hosting and maintenance from $99/mo, 1 to 4 weeks, you own your domain, no ranking guarantees. No portfolio yet, so no past sites are shown.
 **Status:**
- - draft, waiting for your yes to publish
+ - published Saturday 26 September (owner approved at 8 out of 10; add a real site to raise it)
+ - in the sitemap
 
 ## Thank you · thank-you page
 
