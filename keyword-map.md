@@ -1,33 +1,11 @@
 # Your keyword map
 
-34 pages: 16 to build, in order, and 18 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 15 to build, in order, and 19 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 16
-
-## 4. Service page: Plumbing SEO
-
-**Standalone**
-
-**Google check:** passed
-
-**Primary keyword**
-- plumber seo · 590 searches a month · Easy to rank for (21 out of 100)
-
-**Secondary keywords**
-- plumbing marketing agency · 720 a month · Easy (28)
-- plumbing marketing · 590 a month · Easy (13)
-- plumber marketing · 590 a month · Easy (22)
-- plumbing seo services · 320 a month · Easy (22)
-- plumber seo company · 320 a month · Easy (8)
-
-Also ranks for: plumbing seo, seo for plumbers (590 a month each)
-
-**Why here:** third trade in your campaign. "plumbing marketing agency" is a little bigger but broader than SEO, so it sits in the copy.
-
----
+# To build · 15
 
 ## 5. Service page: Contractor SEO
 
@@ -317,7 +295,7 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 18
+# Written · 19
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
 
@@ -385,6 +363,30 @@ Also ranks for: roofer seo (same search, 2,400 a month)
 - hvac seo agency · 260 a month · Easy (15)
 
 **Why here:** second trade in your campaign, and heating season is when these owners feel the Maps gap. "hvac marketing agency" is slightly bigger, but Google shows a mix of guides and forums for it, so the clean hire term leads.
+
+---
+
+## 4. Service page: Plumbing SEO
+
+**Page:** /services/plumbing-seo/
+
+**Standalone**
+
+**Google check:** passed
+
+**Primary keyword**
+- plumber seo · 590 searches a month · Easy to rank for (21 out of 100)
+
+**Secondary keywords**
+- plumbing marketing agency · 720 a month · Easy (28)
+- plumbing marketing · 590 a month · Easy (13)
+- plumber marketing · 590 a month · Easy (22)
+- plumbing seo services · 320 a month · Easy (22)
+- plumber seo company · 320 a month · Easy (8)
+
+Also ranks for: plumbing seo, seo for plumbers (590 a month each)
+
+**Why here:** third trade in your campaign. "plumbing marketing agency" is a little bigger but broader than SEO, so it sits in the copy.
 
 ---
 

@@ -50,6 +50,7 @@ export const site = {
     { name: "Local Visibility Blueprint™", href: "/local-visibility-blueprint/" },
     { name: "Roofing SEO", href: "/services/roofing-seo/" },
     { name: "HVAC SEO", href: "/services/hvac-seo/" },
+    { name: "Plumbing SEO", href: "/services/plumbing-seo/" },
   ],
 
   sitelinks: [

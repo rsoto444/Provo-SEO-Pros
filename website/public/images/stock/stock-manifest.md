@@ -53,3 +53,18 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `furnace-repair-technician-2.jpeg` | furnace repair technician | Pexels | Artem Podrez | Pexels licence - free commercial use, no attribution required |
 | `furnace-repair-technician-3.jpeg` | furnace repair technician | Pexels | Bulat843 🌙 | Pexels licence - free commercial use, no attribution required |
 | `furnace-repair-technician-4.jpeg` | furnace repair technician | Pexels | Kathleen Austin Kuhn | Pexels licence - free commercial use, no attribution required |
+| `plumber-fixing-pipes-1.jpeg` | plumber fixing pipes | Pexels | Anıl Karakaya | Pexels licence - free commercial use, no attribution required |
+| `plumber-fixing-pipes-2.jpeg` | plumber fixing pipes | Pexels | Sergei Starostin | Pexels licence - free commercial use, no attribution required |
+| `plumber-fixing-pipes-3.jpeg` | plumber fixing pipes | Pexels | AR Abnoy | Pexels licence - free commercial use, no attribution required |
+| `plumber-fixing-pipes-4.jpeg` | plumber fixing pipes | Pexels | Jan  Zakelj | Pexels licence - free commercial use, no attribution required |
+| `plumber-fixing-pipes-5.jpeg` | plumber fixing pipes | Pexels | Sergei Starostin | Pexels licence - free commercial use, no attribution required |
+| `plumber-water-heater-1.jpeg` | plumber water heater | Pexels | Heiko Ruth | Pexels licence - free commercial use, no attribution required |
+| `plumber-water-heater-2.jpeg` | plumber water heater | Pexels | Anıl Karakaya | Pexels licence - free commercial use, no attribution required |
+| `plumber-water-heater-3.jpeg` | plumber water heater | Pexels | Alexa Popovich | Pexels licence - free commercial use, no attribution required |
+| `plumber-water-heater-4.jpeg` | plumber water heater | Pexels | Kindel Media | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-1.jpeg` | plumber under kitchen sink | Pexels | Sardwim | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-2.jpeg` | plumber under kitchen sink | Pexels | Joel de la cruz | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-3.jpeg` | plumber under kitchen sink | Pexels | Curtis Adams | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-4.jpeg` | plumber under kitchen sink | Pexels | Melike  B | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-5.jpeg` | plumber under kitchen sink | Pexels | Jaime Joel Vargas Huacre | Pexels licence - free commercial use, no attribution required |
+| `plumber-under-kitchen-sink-6.jpeg` | plumber under kitchen sink | Pexels | Alexa Popovich | Pexels licence - free commercial use, no attribution required |
