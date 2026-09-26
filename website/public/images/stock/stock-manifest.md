@@ -44,3 +44,12 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `residential-roof-shingles-2.jpeg` | residential roof shingles | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
 | `residential-roof-shingles-3.jpeg` | residential roof shingles | Pexels | Ryan  Stephens | Pexels licence - free commercial use, no attribution required |
 | `residential-roof-shingles-4.jpeg` | residential roof shingles | Pexels | Jan van der Wolf | Pexels licence - free commercial use, no attribution required |
+| `hvac-technician-air-conditioner-1.jpeg` | hvac technician air conditioner | Pexels | José Andrés  Pacheco Cortes | Pexels licence - free commercial use, no attribution required |
+| `hvac-technician-air-conditioner-2.jpeg` | hvac technician air conditioner | Pexels | Richard Low Hong | Pexels licence - free commercial use, no attribution required |
+| `hvac-technician-air-conditioner-3.jpeg` | hvac technician air conditioner | Pexels | Kathleen Austin Kuhn | Pexels licence - free commercial use, no attribution required |
+| `hvac-technician-air-conditioner-4.jpeg` | hvac technician air conditioner | Pexels | José Andrés  Pacheco Cortes | Pexels licence - free commercial use, no attribution required |
+| `hvac-technician-air-conditioner-5.jpeg` | hvac technician air conditioner | Pexels | Multitech Institute | Pexels licence - free commercial use, no attribution required |
+| `furnace-repair-technician-1.jpeg` | furnace repair technician | Pexels | Heiko Ruth | Pexels licence - free commercial use, no attribution required |
+| `furnace-repair-technician-2.jpeg` | furnace repair technician | Pexels | Artem Podrez | Pexels licence - free commercial use, no attribution required |
+| `furnace-repair-technician-3.jpeg` | furnace repair technician | Pexels | Bulat843 🌙 | Pexels licence - free commercial use, no attribution required |
+| `furnace-repair-technician-4.jpeg` | furnace repair technician | Pexels | Kathleen Austin Kuhn | Pexels licence - free commercial use, no attribution required |

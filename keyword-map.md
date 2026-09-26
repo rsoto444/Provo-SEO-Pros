@@ -1,31 +1,11 @@
 # Your keyword map
 
-34 pages: 17 to build, in order, and 17 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 16 to build, in order, and 18 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 17
-
-## 3. Service page: HVAC SEO
-
-**Standalone**
-
-**Google check:** passed
-
-**Primary keyword**
-- hvac seo · 720 searches a month · Easy to rank for (18 out of 100)
-
-**Secondary keywords**
-- hvac marketing agency · 880 a month · Easy (11)
-- hvac seo services · 720 a month · Easy (18)
-- hvac marketing · 480 a month · Easy (8)
-- seo for hvac companies · 390 a month · Easy (18)
-- hvac seo agency · 260 a month · Easy (15)
-
-**Why here:** second trade in your campaign, and heating season is when these owners feel the Maps gap. "hvac marketing agency" is slightly bigger, but Google shows a mix of guides and forums for it, so the clean hire term leads.
-
----
+# To build · 16
 
 ## 4. Service page: Plumbing SEO
 
@@ -337,7 +317,7 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 17
+# Written · 18
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
 
@@ -383,6 +363,28 @@ Pages already on your site, with the keyword each one owns. `/seo-optimization` 
 Also ranks for: roofer seo (same search, 2,400 a month)
 
 **Why second:** the easiest big buyer term on the whole map, and roofers are already in your LinkedIn campaign, so every audit you send has a page to point to.
+
+---
+
+## 3. Service page: HVAC SEO
+
+**Page:** /services/hvac-seo/
+
+**Standalone**
+
+**Google check:** passed
+
+**Primary keyword**
+- hvac seo · 720 searches a month · Easy to rank for (18 out of 100)
+
+**Secondary keywords**
+- hvac marketing agency · 880 a month · Easy (11)
+- hvac seo services · 720 a month · Easy (18)
+- hvac marketing · 480 a month · Easy (8)
+- seo for hvac companies · 390 a month · Easy (18)
+- hvac seo agency · 260 a month · Easy (15)
+
+**Why here:** second trade in your campaign, and heating season is when these owners feel the Maps gap. "hvac marketing agency" is slightly bigger, but Google shows a mix of guides and forums for it, so the clean hire term leads.
 
 ---
 
