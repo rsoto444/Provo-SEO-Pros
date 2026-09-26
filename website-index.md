@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 10
+# Built for the new site · 11
 
 ## Homepage · home
 
@@ -77,6 +77,16 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Status:**
  - published
  - in the sitemap
+
+## Local SEO Services · service page
+
+**Route:**
+ - /services/local-seo/
+ - [file](website/app/services/local-seo/page.tsx)
+**About:** Local Visibility Starter, keyword map row 1 (local seo agency). Built Saturday 26 September from the service template. Proof on the page: since 2001, the $900/mo price, Zack V.'s review, Rich by name, no ranking guarantees. No client results yet.
+**Status:**
+ - draft, waiting on your yes
+ - not in the sitemap until it's published
 
 ## Thank you · thank-you page
 

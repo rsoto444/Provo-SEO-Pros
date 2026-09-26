@@ -20,3 +20,19 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `social-media-marketing-phone-2.jpeg` | social media marketing phone | Pexels | Lance  Reis | Pexels licence - free commercial use, no attribution required |
 | `entrepreneur-planning-notebook-desk-4.jpeg` | entrepreneur planning notebook desk | Pexels | Gustavo Fring | Pexels licence - free commercial use, no attribution required |
 | `entrepreneur-planning-notebook-desk-6.jpeg` | entrepreneur planning notebook desk | Pexels | Sora Shimazaki | Pexels licence - free commercial use, no attribution required |
+| `google-maps-on-phone-local-business-1.jpeg` | google maps on phone local business | Pexels | Brett Jordan | Pexels licence - free commercial use, no attribution required |
+| `google-maps-on-phone-local-business-2.jpeg` | google maps on phone local business | Pexels | Theo  Decker | Pexels licence - free commercial use, no attribution required |
+| `google-maps-on-phone-local-business-3.jpeg` | google maps on phone local business | Pexels | Vojta Kovařík | Pexels licence - free commercial use, no attribution required |
+| `google-maps-on-phone-local-business-4.jpeg` | google maps on phone local business | Pexels | Alicia Christin Gerald | Pexels licence - free commercial use, no attribution required |
+| `storefront-small-business-owner-1.jpeg` | storefront small business owner | Pexels | Vitaly Gariev | Pexels licence - free commercial use, no attribution required |
+| `storefront-small-business-owner-2.jpeg` | storefront small business owner | Pexels | Amina Filkins | Pexels licence - free commercial use, no attribution required |
+| `storefront-small-business-owner-3.jpeg` | storefront small business owner | Pexels | Kampus Production | Pexels licence - free commercial use, no attribution required |
+| `storefront-small-business-owner-4.jpeg` | storefront small business owner | Pexels | Ketut Subiyanto | Pexels licence - free commercial use, no attribution required |
+| `business-owner-on-phone-call-1.jpeg` | business owner on phone call | Pexels | RDNE Stock project | Pexels licence - free commercial use, no attribution required |
+| `business-owner-on-phone-call-2.jpeg` | business owner on phone call | Pexels | Kampus Production | Pexels licence - free commercial use, no attribution required |
+| `business-owner-on-phone-call-3.jpeg` | business owner on phone call | Pexels | RDNE Stock project | Pexels licence - free commercial use, no attribution required |
+| `business-owner-on-phone-call-4.jpeg` | business owner on phone call | Pexels | RDNE Stock project | Pexels licence - free commercial use, no attribution required |
+| `reviewing-search-results-laptop-1.jpeg` | reviewing search results laptop | Pexels | cottonbro studio | Pexels licence - free commercial use, no attribution required |
+| `reviewing-search-results-laptop-2.jpeg` | reviewing search results laptop | Pexels | Lukas Blazek | Pexels licence - free commercial use, no attribution required |
+| `reviewing-search-results-laptop-3.png` | reviewing search results laptop | Pexels | Firmbee.com | Pexels licence - free commercial use, no attribution required |
+| `reviewing-search-results-laptop-4.jpeg` | reviewing search results laptop | Pexels | cottonbro studio | Pexels licence - free commercial use, no attribution required |

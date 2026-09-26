@@ -1,30 +1,11 @@
 # Your keyword map
 
-34 pages: 19 to build, in order, and 15 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
+34 pages: 18 to build, in order, and 16 already on your site. Blog posts stay under difficulty 30 (your authority score isn't measured yet, so the safe ceiling applies). Money pages are built for what you sell.
 Search numbers are US monthly averages from Google Ads data, Saturday 26 September 2026, with Utah County in brackets where it matters. Use them to compare size, not to forecast visits.
 
 ---
 
-# To build · 19
-
-## 1. Service page: Local SEO services
-
-**Standalone**
-
-**Google check:** passed
-
-**Primary keyword**
-- local seo agency · 4,400 searches a month · Easy to rank for (11 out of 100)
-
-**Secondary keywords**
-- local seo services · 8,100 a month · Medium (34)
-- local seo company · 3,600 a month · Easy (16)
-- local seo expert · 1,300 a month · Easy (16)
-- local seo packages · 480 a month · Easy (11)
-
-**Why first:** the biggest buyer search on the map that you can realistically win, and it's exactly what Local Visibility Starter sells, which has no page today. "local seo services" is bigger but harder, so it goes in the copy, not the title.
-
----
+# To build · 18
 
 ## 2. Service page: Roofing SEO
 
@@ -378,9 +359,28 @@ Narrow family: 0 other phrasings with real searches.
 
 ---
 
-# Written · 15
+# Written · 16
 
 Pages already on your site, with the keyword each one owns. `/seo-optimization` tunes their titles and headings to these.
+
+## 1. Service page: Local SEO services
+
+**Standalone**
+
+**Google check:** passed
+
+**Primary keyword**
+- local seo agency · 4,400 searches a month · Easy to rank for (11 out of 100)
+
+**Secondary keywords**
+- local seo services · 8,100 a month · Medium (34)
+- local seo company · 3,600 a month · Easy (16)
+- local seo expert · 1,300 a month · Easy (16)
+- local seo packages · 480 a month · Easy (11)
+
+**Why first:** the biggest buyer search on the map that you can realistically win, and it's exactly what Local Visibility Starter sells, which has no page today. "local seo services" is bigger but harder, so it goes in the copy, not the title.
+
+---
 
 ## 20. Homepage: Provo SEO company
 

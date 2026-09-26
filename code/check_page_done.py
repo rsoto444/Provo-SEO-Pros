@@ -45,7 +45,7 @@ PLACEHOLDER_PATTERNS = [
 
 def pattern_hits(html):
     import re as _re
-    html = _re.sub(r"<(script|style)[^>]*>.*?</\\1>", " ", html, flags=_re.S | _re.I)
+    html = _re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", html, flags=_re.S | _re.I)
     attrs = " ".join(_re.findall(r'(?:placeholder|value|aria-label)="([^"]*)"', html))
     text = _re.sub(r"<[^>]+>", " ", html) + " " + attrs
     return [label for pat, label in PLACEHOLDER_PATTERNS if _re.search(pat, text)]
