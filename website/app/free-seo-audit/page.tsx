@@ -63,7 +63,7 @@ export default function Page() {
               </p>
               <p style={{ font: "var(--type-body-lg)", color: "var(--white)", margin: 0, fontWeight: 700 }}>No cost. No obligation. No sales pressure.</p>
             </div>
-            <form method="post" action="/api/lead/" style={{ ...card, display: "grid", gap: 16, boxShadow: "0 18px 50px rgba(10, 30, 70, .28)", border: 0 }}>
+            <form method="post" action="/api/lead/" style={{ ...card, display: "grid", gap: 16, boxShadow: "0 18px 50px rgba(10, 30, 70, .28)", border: 0 }}><div aria-hidden="true" style={{position: "absolute", left: "-10000px", width: "1px", height: "1px", overflow: "hidden"}}><label>Leave this empty<input type="text" name="fax_number_2" tabIndex={-1} autoComplete="off" defaultValue="" /></label></div>
               <input type="hidden" name="form" value="free-seo-audit" />
               <input type="hidden" name="service" value="Free Written SEO Audit" />
               <h2 style={{ font: "var(--type-h3)", color: "var(--text-strong)", margin: 0 }}>Request your free audit</h2>

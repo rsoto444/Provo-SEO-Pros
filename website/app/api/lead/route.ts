@@ -10,6 +10,16 @@ export async function POST(request: Request) {
   const form = await request.formData();
   const payload = Object.fromEntries(form.entries());
 
+  // Spam trap: every form carries a hidden "fax_number_2" field that people never
+  // see. Bots fill it in. Bot posts, and posts with no usable email, get the normal
+  // thank-you redirect but are never sent to GoHighLevel.
+  const trap = String(payload.fax_number_2 ?? "").trim();
+  const email = String(payload.email ?? "").trim();
+  if (trap || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    return NextResponse.redirect(new URL("/thank-you/", request.url), 303);
+  }
+  delete payload.fax_number_2;
+
   const webhook = (site as Record<string, unknown>).leadWebhook as string | null | undefined;
   if (!webhook || String(webhook).includes("TODO")) {
     return NextResponse.json(

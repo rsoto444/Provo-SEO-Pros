@@ -22,7 +22,7 @@ export default function Page() {
         A free 30-minute call about your website, Google Business Profile and local search presence, and what&apos;s
         getting in the way of more inquiries. We reply within one business day to set up your call.
       </p>
-      <form method="post" action="/api/lead/" style={{ display: "grid", gap: 18, marginTop: 32 }}>
+      <form method="post" action="/api/lead/" style={{ display: "grid", gap: 18, marginTop: 32 }}><div aria-hidden="true" style={{position: "absolute", left: "-10000px", width: "1px", height: "1px", overflow: "hidden"}}><label>Leave this empty<input type="text" name="fax_number_2" tabIndex={-1} autoComplete="off" defaultValue="" /></label></div>
         <input type="hidden" name="form" value="book-a-growth-audit" />
         <label style={lab}>Your name *<input name="name" required autoComplete="name" placeholder="Your name" style={field} /></label>
         <label style={lab}>Email *<input type="email" name="email" required autoComplete="email" placeholder="Your email address" style={field} /></label>
