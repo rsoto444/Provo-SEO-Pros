@@ -77,3 +77,18 @@ Downloaded by `/build-website` because no real photos were supplied.
 | `electrician-working-house-1.jpeg` | electrician working house | Pexels | Audy of  Course | Pexels licence - free commercial use, no attribution required |
 | `electrician-working-house-2.jpeg` | electrician working house | Pexels | Kathleen Austin Kuhn | Pexels licence - free commercial use, no attribution required |
 | `electrician-working-house-3.jpeg` | electrician working house | Pexels | MART  PRODUCTION | Pexels licence - free commercial use, no attribution required |
+| `contractor-using-laptop-1.jpeg` | contractor using laptop | Pexels | Andrea Piacquadio | Pexels licence - free commercial use, no attribution required |
+| `contractor-using-laptop-2.jpeg` | contractor using laptop | Pexels | Anastasia  Shuraeva | Pexels licence - free commercial use, no attribution required |
+| `contractor-using-laptop-3.jpeg` | contractor using laptop | Pexels | Harrun  Muhammad | Pexels licence - free commercial use, no attribution required |
+| `contractor-using-laptop-4.jpeg` | contractor using laptop | Pexels | Mizuno K | Pexels licence - free commercial use, no attribution required |
+| `contractor-using-laptop-5.jpeg` | contractor using laptop | Pexels | SHVETS production | Pexels licence - free commercial use, no attribution required |
+| `website-on-smartphone-1.jpeg` | website on smartphone | Pexels | Lisa Fotios | Pexels licence - free commercial use, no attribution required |
+| `website-on-smartphone-2.jpeg` | website on smartphone | Pexels | Shoper .pl | Pexels licence - free commercial use, no attribution required |
+| `website-on-smartphone-3.jpeg` | website on smartphone | Pexels | Bastian Riccardi | Pexels licence - free commercial use, no attribution required |
+| `website-on-smartphone-4.jpeg` | website on smartphone | Pexels | Airam Dato-on | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-1.jpeg` | website wireframe sketch | Pexels | picjumbo.com | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-2.jpeg` | website wireframe sketch | Pexels | picjumbo.com | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-3.jpeg` | website wireframe sketch | Pexels | Davide Baraldi | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-4.jpeg` | website wireframe sketch | Pexels | picjumbo.com | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-5.jpeg` | website wireframe sketch | Pexels | Pixabay | Pexels licence - free commercial use, no attribution required |
+| `website-wireframe-sketch-6.jpeg` | website wireframe sketch | Pexels | Akshar Dave🌻 | Pexels licence - free commercial use, no attribution required |

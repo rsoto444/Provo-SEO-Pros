@@ -52,6 +52,7 @@ export const site = {
     { name: "HVAC SEO", href: "/services/hvac-seo/" },
     { name: "Plumbing SEO", href: "/services/plumbing-seo/" },
     { name: "Contractor SEO", href: "/services/contractor-seo/" },
+    { name: "Web Design for Contractors", href: "/services/web-design-for-contractors/" },
   ],
 
   sitelinks: [

@@ -6,7 +6,7 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 
 **Decide first:** nothing blocking. WordPress now lives at team.provoseopros.com (hidden from Google) and the two setter pages forward there.
 
-# Built for the new site · 15
+# Built for the new site · 16
 
 ## Homepage · home
 
@@ -127,6 +127,15 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
 **Status:**
  - published Saturday 26 September
  - in the sitemap
+
+## Web design for contractors · service page
+
+**Route:**
+ - /services/web-design-for-contractors/
+ - [file](website/app/services/web-design-for-contractors/page.tsx)
+**About:** Website Design & Conversion Optimization sold to contractors, keyword map row 6 (web design for contractors). Built Saturday 26 September from the Contractor SEO page. On the page: from $3,500 paid up front, hosting and maintenance from $99/mo, 1 to 4 weeks, you own your domain, no ranking guarantees. No portfolio yet, so no past sites are shown.
+**Status:**
+ - draft, waiting for your yes to publish
 
 ## Thank you · thank-you page
 
