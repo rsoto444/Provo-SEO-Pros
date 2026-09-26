@@ -115,7 +115,8 @@ Status: **Draft** (built, shows in the preview) → **Published** (live on provo
  - [file](website/app/services/plumbing-seo/page.tsx)
 **About:** Local Visibility Starter for plumbing companies, keyword map row 4 (plumber seo). Built Saturday 26 September from the HVAC SEO page. Proof on the page: since 2001, the $900/mo price, Rich by name, no ranking guarantees, no exclusive territories. Links to the free written audit next to the price. No plumbing clients yet, so no plumbing results are claimed.
 **Status:**
- - draft, waiting for your yes to publish
+ - published Saturday 26 September
+ - in the sitemap
 
 ## Thank you · thank-you page
 
