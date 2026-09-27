@@ -54,6 +54,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`} strategy="afterInteractive" />
         {/* GoHighLevel chat widget: the only SMS opt-in (A2P). Not on /thank-you/. */}
         <ChatWidget />
+        {/* SGS Rank Tracker: visitor counts for the agency dashboard, no cookies. */}
+        <Script src="https://sgs-rank-tracker.vercel.app/t.js" data-site={site.trackerKey} strategy="afterInteractive" />
         {/* Vercel Web Analytics: visitor counts, no cookies. */}
         <Analytics />
       </body>

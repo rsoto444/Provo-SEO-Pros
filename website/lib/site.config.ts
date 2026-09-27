@@ -24,6 +24,8 @@ export const site = {
   url: "https://provoseopros.com",
   // Google Analytics 4 measurement ID (public by design - it ships in every page).
   ga4Id: "G-FF136PBPC9", // your live domain - used by sitemap + metadata
+  // SGS Rank Tracker visitor snippet key (public by design - it ships in every page).
+  trackerKey: "pJIfktIvmuCS",
 
   // Your services - each becomes a card on the homepage.
   // The SEO Blueprint's /build-website turns these into full service pages.
