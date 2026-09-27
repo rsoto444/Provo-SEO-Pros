@@ -46,6 +46,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${site.ga4Id}');`,
           }}
         />
+        {/* SGS rank tracker: page views only (path, referrer, screen width), no cookies. */}
+        <script defer src="https://sgs-rank-tracker.vercel.app/t.js" data-site="pJIfktIvmuCS"></script>
       </head>
       <body>
         {/* Who the business is, on every page: name, address, phone, hours, founder. */}
