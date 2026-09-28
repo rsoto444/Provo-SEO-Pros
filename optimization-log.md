@@ -26,3 +26,15 @@ Rules:
 ---
 
 <!-- Entries begin below. Newest first. -->
+
+## Monday 28 September 2026 · Homepage (/)
+
+**Checks:** Headings: 4/5 → 5/5 · Images: 3/6 → 5/6 · Internal links: 3/5 → 5/5 · First-hand proof: 5/6 → 5/6 (waiting on your photo) · loop count: 2
+**Lighthouse (mobile, median of 3):** Perf 97 → 99 · SEO 100 → 100 · Accessibility 97 → 100 · Best Practices 96 → 96 (test-machine network, live scores 100)
+**Search Console baseline (whole site, last 28 days, pulled Sunday 27 September from the SGS tracker):**
+- Clicks: 6 · Impressions: 3,569 · Homepage-only numbers: not pulled yet
+- Top queries: "search engine optimization services provo" position 4.1 · "seo company provo" position 9.8 · "provo seo company" position 13.8 · "search engine optimization provo" position 14.5 · "provo seo" position 19.1
+**What changed:** title, description, H1 (added "Provo SEO"), 3 service headings linked, image sizes, smaller phone images, SEO card price matched to $2,500/mo
+**Shelf-life fixes:** none new (the inlined font file from the earlier audit still applies: self-host the fonts to make it permanent)
+**Re-measure on:** Monday 9 November 2026 → _(fill in: clicks, impressions, avg position, and the delta)_
+
