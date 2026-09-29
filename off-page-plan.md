@@ -1,7 +1,7 @@
 # Off-page SEO plan: Provo SEO Pros
 
 Your week-by-week plan for getting found beyond your own website, at about 3 hours a week. Made Tuesday 29 September 2026.
-Next: verify Apple Maps and add the street address on LinkedIn (week 1 leftovers).
+Next: verify Apple Maps (the last week 1 item).
 
 ---
 
@@ -25,7 +25,7 @@ Every listing must match, character for character.
 - [x] **Bing Places**: done Tuesday 29 September. Phone fixed from (385) 481-7087 to (866) 402-6849. Syncs from Google, so the address stays hidden there too.
 - [ ] **Apple Maps**: hours, description and categories entered, but nothing goes live until you verify. The phone on file is the old (385) 316-6294 and unlocks after verification.
 - [x] **Facebook page**: already matched. One fix left: its LinkedIn link points to Soto Professional Services.
-- [ ] **LinkedIn company page**: phone and description done. You add the street address yourself (see chat steps).
+- [x] **LinkedIn company page**: done Tuesday 29 September. Phone, website, About, tagline and full address (2650 W 820 N, Provo, UT 84601) now match. Industry: Marketing Services, the closest option.
 - [x] **Yelp**: done Tuesday 29 September. Phone fixed from (385) 316-6294, hours fixed from 24 hours. Yelp shows the street as "820th N"; ask Yelp support to correct it.
 
 ## Week 2: Monday 5 October
