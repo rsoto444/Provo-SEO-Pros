@@ -1,7 +1,7 @@
 # Off-page SEO plan: Provo SEO Pros
 
 Your week-by-week plan for getting found beyond your own website, at about 3 hours a week. Made Tuesday 29 September 2026.
-Next: fix your Google Business Profile phone numbers and hours (step 1 of week 1).
+Next: list the business on Bing Places (week 1).
 
 ---
 
@@ -21,10 +21,7 @@ Every listing must match, character for character.
 
 ## Week 1: Tuesday 29 September
 
-- [ ] **Google Business Profile** (30 minutes)
-  - Change the phone to (866) 402-6849. Remove (385) 481-7087 and (801) 960-2132.
-  - Change the hours to Monday to Friday, 9 to 5.
-  - Paste the short description above.
+- [x] **Google Business Profile**: done Tuesday 29 September. Phone, address, website and hours now match the site. Keep your existing longer description there.
 - [ ] **Bing Places** (20 minutes): choose "Import from Google" after your profile is fixed. ChatGPT and Copilot search draw on Bing.
 - [ ] **Apple Maps** at mapsconnect.apple.com (20 minutes)
 - [ ] **Facebook page** (20 minutes): check the name, address, phone and website match.
