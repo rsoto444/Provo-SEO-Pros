@@ -55,6 +55,11 @@ These come from your link gap list: 3 or 4 of your competitors are on each one.
 - [ ] **Manta, Hotfrog and EZlocal** (15 minutes each)
 - [ ] **Best of SLC and SLC Top 10** (30 minutes): email each one asking to be reviewed.
 
+## Week 5: Monday 26 October
+
+- [ ] **Brownbook, Cylex, MapQuest and Superpages** (15 minutes each)
+- [ ] **"Best SEO company in Provo" lists** (1 hour): Google that phrase and "best SEO company Utah". Note every article that ranks, then email each publisher asking to be reviewed for their next update.
+
 ---
 
 ## Every week after that (3 hours)
