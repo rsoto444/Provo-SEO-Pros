@@ -1,7 +1,7 @@
 # Off-page SEO plan: Provo SEO Pros
 
 Your week-by-week plan for getting found beyond your own website, at about 3 hours a week. Made Tuesday 29 September 2026.
-Next: verify Apple Maps, then week 3 listings from Monday 12 October.
+Next: week 3 agency directories from Monday 12 October (Apple Maps verification still open).
 
 ---
 
@@ -39,15 +39,21 @@ Every listing must match, character for character.
 
 ## Week 3: Monday 12 October
 
-- [ ] **Utah Valley Chamber** (1 hour): apply for membership. Members get a listing with a link. There is a yearly fee, so check it before you join.
-- [ ] **Agency Spotter** (20 minutes)
-- [ ] **Nextdoor Business** (20 minutes)
-- [ ] **Manta, Hotfrog and EZlocal** (20 minutes each)
+These come from your link gap list: 3 or 4 of your competitors are on each one.
+
+- [ ] **OnToplist** (20 minutes)
+- [ ] **AgencyList** (20 minutes)
+- [ ] **Tech Behemoths** (20 minutes)
+- [ ] **Marketing Agency Near Me** (20 minutes)
+- [ ] **GoodFirms** (20 minutes)
+- [ ] **Sorted Firms, AgenciesUp, Index Agencies, Outstanding Agencies** (15 minutes each)
 
 ## Week 4: Monday 19 October
 
-- [ ] **Brownbook, Cylex, MapQuest and Superpages** (20 minutes each)
-- [ ] **"Best SEO company in Provo" lists** (1 hour): Google that phrase and "best SEO company Utah". Note every article that ranks, then email each publisher asking to be reviewed for their next update.
+- [ ] **Utah Valley Chamber** (1 hour): check the yearly fee before you join. Members get a listing with a link.
+- [ ] **Agency Spotter and Nextdoor Business** (20 minutes each)
+- [ ] **Manta, Hotfrog and EZlocal** (15 minutes each)
+- [ ] **Best of SLC and SLC Top 10** (30 minutes): email each one asking to be reviewed.
 
 ---
 
