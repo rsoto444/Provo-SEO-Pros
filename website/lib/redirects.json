@@ -114,5 +114,9 @@
  {
   "source": "/comprehensive-roofing-seo-services/",
   "destination": "/service/seo-ai-search-optimization/"
+ },
+ {
+  "source": "/=gmb&utm_medium=organic/",
+  "destination": "/"
  }
 ]
