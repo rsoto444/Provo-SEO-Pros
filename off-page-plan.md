@@ -1,7 +1,7 @@
 # Off-page SEO plan: Provo SEO Pros
 
 Your week-by-week plan for getting found beyond your own website, at about 3 hours a week. Made Tuesday 29 September 2026.
-Next: verify Apple Maps (the last week 1 item).
+Next: verify Apple Maps, then week 3 listings from Monday 12 October.
 
 ---
 
@@ -30,12 +30,12 @@ Every listing must match, character for character.
 
 ## Week 2: Monday 5 October
 
-- [ ] **Better Business Bureau** at bbb.org/get-listed (30 minutes). A free listing is fine; accreditation costs money and is optional.
-- [ ] **Foursquare** at business.foursquare.com (15 minutes)
-- [ ] **Yellow Pages** at yellowpages.com (15 minutes)
-- [ ] **Clutch** at clutch.co (45 minutes). This profile also puts you on The Manifest, which is #1 on Google for "seo company provo".
-- [ ] **DesignRush** at designrush.com (30 minutes)
-- [ ] **UpCity** at upcity.com (30 minutes)
+- [ ] **Better Business Bureau**: free profile submitted Tuesday 29 September, waiting on BBB's review. Categories: Digital Marketing, Internet Marketing Services, Web Designer. Accreditation declined.
+- [x] **Foursquare**: listing already correct. Not claimed, because claiming costs a fee.
+- [x] **Yellow Pages**: skipped. The only way in is a Thryv sales form that signs you up for marketing texts.
+- [x] **Clutch**: done Tuesday 29 September. Address and phone fixed (was (385) 236-0868), team size Freelancer, founded 2001, service lines SEO 60, Web Design 30, Other Digital Marketing 10. Minimum project size blank (no option fits $750). Paid upgrade declined.
+- [ ] **DesignRush**: draft saved, not submitted. It requires a logo, 3 featured clients and 3 company photos. Parked until you have real clients to list.
+- [x] **UpCity**: skipped, the directory is discontinued (owner).
 
 ## Week 3: Monday 12 October
 
