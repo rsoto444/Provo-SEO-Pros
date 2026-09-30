@@ -1,13 +1,13 @@
 # Unlinked mentions: provoseopros.com
 
 Sites that name Provo SEO Pros but don't link to it. Made Wednesday 30 September 2026 from a DataForSEO search that found 101 pages.
-Next: approve and send the JetRank request (draft in outreach/drafts/jetrank.com.md).
+Next: JetRank request sent Wednesday 30 September; follow up Wednesday 14 October if no reply.
 
 ---
 
 ## Worth asking
 
-- **JetRank, "Top 40 Provo SEO Companies"** (jetrank.com/provo-seo/): lists you with no link and the wrong team size. Draft ready.
+- **JetRank, "Top 40 Provo SEO Companies"** (jetrank.com/provo-seo/): lists you with no link, 2-10 employees and 40% SEO focused. Request sent Wednesday 30 September.
 - **Utah Marketing Group meetups** (luma.com event pages): your name shows up on several meetup pages. Event pages usually give links search engines don't count, so this is low value unless you're a speaker or sponsor.
 
 ## Not real mentions

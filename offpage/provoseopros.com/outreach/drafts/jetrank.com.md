@@ -1,6 +1,6 @@
 # Outreach draft: JetRank
 
-**Status:** DRAFT - needs approval
+**Status:** SENT Wednesday 30 September 2026 through the jetrank.com contact form, from contact@provoseopros.com. Follow up Wednesday 14 October at editor@jetrank.net if no reply. Note: the live entry shows 40% SEO focused, not 20% as the message says.
 **Prospect page:** https://jetrank.com/provo-seo/ ("Top 40 Provo SEO Companies")
 **Why:** the page already lists Provo SEO Pros but has no link, and it shows the wrong team size (2-10 employees) and "20% SEO focused".
 **Where to send:** the contact form or email on jetrank.com (find it on their contact page)
