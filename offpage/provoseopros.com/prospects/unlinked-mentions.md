@@ -8,7 +8,7 @@ Next: JetRank request sent Wednesday 30 September; follow up Wednesday 14 Octobe
 ## Worth asking
 
 - **JetRank, "Top 40 Provo SEO Companies"** (jetrank.com/provo-seo/): lists you with no link, 2-10 employees and 40% SEO focused. Request sent Wednesday 30 September.
-- **Utah Marketing Group meetups** (luma.com event pages): your name shows up on several meetup pages. Event pages usually give links search engines don't count, so this is low value unless you're a speaker or sponsor.
+- **Utah Marketing Group meetups** (luma.com event pages): your name shows up on several meetup pages. Owner did not speak or sponsor (Wednesday 30 September), so skipped.
 
 ## Not real mentions
 
