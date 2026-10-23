@@ -11,7 +11,7 @@ BUSINESS DETAILS - copy these exactly on every site:
 - Name: Provo SEO Pros
 - Owner: Richard Soto Jr (goes by Rich Soto)
 - Address: 2650 W 820 N, Provo, UT 84601
-- Phone: (866) 402-6849. If a field rejects brackets, use 866-402-6849.
+- Phone: (385) 527-1125. If a field rejects brackets, use 385-527-1125.
 - Website: https://provoseopros.com
 - Email: contact@provoseopros.com
 - Hours: Monday to Friday, 9:00 AM to 5:00 PM Mountain Time. Closed Saturday and Sunday.

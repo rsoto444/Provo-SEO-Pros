@@ -12,7 +12,7 @@ How to get in: on a desktop, logged into the Google account that owns the profil
 Google trusts a business less when its details disagree. Your website says one thing and your profile says another.
 
 **Phone:** Edit profile → **Contact** → Phone number
-- Set the primary number to **(866) 402-6849**
+- Set the primary number to **(385) 527-1125**
 - Remove **(801) 960-2132** unless you want it listed
 - Remove **(385) 481-7087** as a phone number, or keep it only as the chat number (see below)
 - Click **Save**

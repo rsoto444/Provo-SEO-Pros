@@ -11,7 +11,7 @@ Every listing must match, character for character.
 
 - **Name:** Provo SEO Pros
 - **Address:** 2650 W 820 N, Provo, UT 84601
-- **Phone:** (866) 402-6849
+- **Phone:** (385) 527-1125
 - **Website:** https://provoseopros.com
 - **Hours:** Monday to Friday, 9am to 5pm Mountain Time. Closed weekends.
 - **Email:** contact@provoseopros.com

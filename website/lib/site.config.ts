@@ -14,7 +14,7 @@ export const site = {
   // section simply doesn't render.
   // GHL > Calendars > the calendar > copy the booking link.
   bookingUrl: "https://api.leadconnectorhq.com/widget/booking/zzAK5q1XnER39WzXYv6o" as string | null, // Rich Soto Calendar, 30 min
-  phone: "+1 866-402-6849",
+  phone: "+1 385-527-1125",
   email: "contact@provoseopros.com",
   // Street address shown ONLY in the contact page "Reach us" box (A2P brand check).
   // Clients never visit, so everywhere else the site says "Provo, Utah" (owner, 25 Sep 2026).
