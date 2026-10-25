@@ -62,6 +62,23 @@ These come from your link gap list: 3 or 4 of your competitors are on each one.
 
 ---
 
+## Phone change: Sunday 25 October
+
+Main phone changed from (866) 402-6849 to (385) 527-1125 because of spam calls about Google listings. The new number goes to the HighLevel IVR (tested). (866) 402-6849 stays the texting number only. The (801) 372-2776 direct line on the contact page is unchanged.
+
+- [x] **Website**: live Sunday 25 October (every page, click-to-call links, schema, Privacy, Terms, llms.txt).
+- [x] **Google Business Profile**: already showed (385) 527-1125. One phone field.
+- [x] **Bing Places**: changed (phone is locked to Google, updated through Sync).
+- [x] **Yelp**: changed, waiting on Yelp's review of the edit.
+- [x] **Facebook page**, **LinkedIn page**: changed.
+- [x] **Clutch**: changed in both places (admin contact and HQ location).
+- [ ] **Apple Maps**: shows the dead (385) 316-6294. Locked until the business is verified; verify in Apple Business Connect, then set (385) 527-1125.
+- [ ] **Google Business Profile social links**: remove the TikTok link (the account does not exist).
+- [ ] **BBB**: live but unclaimed, shows (866) 402-6849. Claim it ("Own this business?"), then change the phone.
+- [ ] **YouTube**: no phone field, but two video titles still show (866) 402-6849. Edit the titles.
+- [ ] **X**: point the profile link to provoseopros.com (it links to sotoprofessionalservices.com).
+- [ ] **MapQuest**: shows (866) 402-6849 in five places. Fed by data suppliers; left to update on its own. Recheck in November.
+
 ## Every week after that (3 hours)
 
 - [ ] **Journalist requests** (1 hour): answer 2 or 3 requests on Qwoted or Featured about local SEO. Being quoted earns a link.
