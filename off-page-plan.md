@@ -73,10 +73,10 @@ Main phone changed from (866) 402-6849 to (385) 527-1125 because of spam calls a
 - [x] **Facebook page**, **LinkedIn page**: changed.
 - [x] **Clutch**: changed in both places (admin contact and HQ location).
 - [ ] **Apple Maps**: shows the dead (385) 316-6294. Locked until the business is verified; verify in Apple Business Connect, then set (385) 527-1125.
-- [ ] **Google Business Profile social links**: remove the TikTok link (the account does not exist).
+- [ ] **Google Business Profile social links**: remove the TikTok link (the account does not exist) and the X link (the account is suspended).
 - [ ] **BBB**: live but unclaimed, shows (866) 402-6849. Claim it ("Own this business?"), then change the phone.
-- [ ] **YouTube**: no phone field, but two video titles still show (866) 402-6849. Edit the titles.
-- [ ] **X**: point the profile link to provoseopros.com (it links to sotoprofessionalservices.com).
+- [x] **YouTube**: no phone field; the two video titles that showed (866) 402-6849 were fixed by Rich.
+- [x] **X**: the account (x.com/RichSoto443) is suspended and cannot be edited. Removed from the website's schema profile list, together with the TikTok link.
 - [ ] **MapQuest**: shows (866) 402-6849 in five places. Fed by data suppliers; left to update on its own. Recheck in November.
 
 ## Every week after that (3 hours)

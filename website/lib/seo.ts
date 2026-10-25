@@ -78,8 +78,6 @@ export const businessSchema = {
     "https://www.instagram.com/provoseopros/",
     "https://www.linkedin.com/company/80835124/",
     "https://www.youtube.com/@provoseopros9657",
-    "https://x.com/RichSoto443",
-    "https://www.tiktok.com/@richsoto5952",
     "https://www.pinterest.com/rsoto443/",
   ],
 };
