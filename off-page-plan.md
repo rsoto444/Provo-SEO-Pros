@@ -72,10 +72,10 @@ Main phone changed from (866) 402-6849 to (385) 527-1125 because of spam calls a
 - [x] **Yelp**: changed, waiting on Yelp's review of the edit.
 - [x] **Facebook page**, **LinkedIn page**: changed.
 - [x] **Clutch**: changed in both places (admin contact and HQ location).
-- [ ] **Apple Maps**: shows the dead (385) 316-6294. Locked until the business is verified; verify in Apple Business Connect, then set (385) 527-1125.
-- [ ] **Google Business Profile social links**: remove the TikTok link (the account does not exist) and the X link (the account is suspended).
-- [ ] **BBB**: live but unclaimed, shows (866) 402-6849. Claim it ("Own this business?"), then change the phone.
-- [x] **YouTube**: no phone field; the two video titles that showed (866) 402-6849 were fixed by Rich.
+- [x] **Apple Maps**: business verified in Apple Business Connect and the phone set to (385) 527-1125 (it showed the dead (385) 316-6294).
+- [x] **Google Business Profile social links**: TikTok (account does not exist) and X (suspended) removed. Google and the website schema now list the same profiles: LinkedIn, Pinterest, YouTube, Facebook, Instagram.
+- [x] **BBB**: claimed and the phone changed to (385) 527-1125.
+- [x] **YouTube**: no phone field; the two video titles that showed (866) 402-6849 were fixed by Rich. Channel picture changed to the blue mountain crest logo (Rich confirmed).
 - [x] **X**: the account (x.com/RichSoto443) is suspended and cannot be edited. Removed from the website's schema profile list, together with the TikTok link.
 - [ ] **MapQuest**: shows (866) 402-6849 in five places. Fed by data suppliers; left to update on its own. Recheck in November.
 
