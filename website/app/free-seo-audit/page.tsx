@@ -72,6 +72,7 @@ export default function Page() {
               <label style={lab}>Business name *<input name="business" required autoComplete="organization" placeholder="Your business name" style={field} /></label>
               <label style={lab}>Your website<input type="text" inputMode="url" name="website" autoComplete="url" placeholder="Your website address" style={field} /></label>
               <label style={lab}>City<input name="city" autoComplete="address-level2" placeholder="Where you do business" style={field} /></label>
+              <label style={lab}>How can we help?<textarea name="message" rows={3} placeholder="Tell us what you need help with." style={{ ...field, minHeight: "auto", resize: "vertical" }} /></label>
               <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--text-strong)", color: "var(--white)", font: "var(--type-button)", cursor: "pointer" }}>
                 Send me my free audit
               </button>

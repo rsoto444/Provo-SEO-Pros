@@ -35,6 +35,7 @@ export default function Page() {
             <option value="Not sure yet">Not sure yet</option>
           </select>
         </label>
+        <label style={lab}>How can we help?<textarea name="message" rows={3} placeholder="Tell us what you need help with." style={{ ...field, minHeight: "auto", resize: "vertical" }} /></label>
         {/* Hidden: A2P: the GoHighLevel chat widget is the only SMS opt-in (owner decision) */}{false && <SmsConsent />} <button type="submit" style={{ minHeight: "var(--control-h, 44px)", borderRadius: "var(--radius-control, 999px)", border: 0, background: "var(--surface-brand, #0b62c9)", color: "var(--text-inverse, #fff)", font: "var(--type-button)", cursor: "pointer" }}>Book my free Growth Audit</button>
         <p style={{ font: "var(--type-caption)", color: "var(--text-muted, #73726e)", margin: 0, textAlign: "center" }}>
           Rather talk now? Call <a href={`tel:${site.phone.replace(/[^+\d]/g, "")}`} style={{ color: "var(--text-link, #0b62c9)" }}>{site.phone}</a>, Monday to Friday, 9am to 5pm MT.
